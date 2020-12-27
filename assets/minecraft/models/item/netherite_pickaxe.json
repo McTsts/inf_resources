@@ -4,6 +4,7 @@
 		"layer0": "minecraft:item/netherite_pickaxe"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "inf:tool/wrench" }
+		{ "predicate": { "custom_model_data": 1}, "model": "inf:tool/wrench/level_1" },
+		{ "predicate": { "custom_model_data": 2}, "model": "inf:tool/wrench/level_2" }
 	]
 }

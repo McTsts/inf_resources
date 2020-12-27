@@ -1,0 +1,21 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/dispenser_front",
+		"base": "inf:machine/filter/base"
+	},
+	"elements": [
+		{
+			"name": "nose",
+			"from": [5, 3, 17],
+			"to": [11, 8, 20],
+			"faces": {
+				"north": {"uv": [0, 9.5, 3, 12], "texture": "#base"},
+				"east": {"uv": [3, 9.5, 4.5, 12], "texture": "#base"},
+				"west": {"uv": [3, 9.5, 4.5, 12], "texture": "#base"},
+				"up": {"uv": [0, 12, 3, 13.5], "texture": "#base"},
+				"down": {"uv": [0, 12, 3, 13.5], "rotation": 180, "texture": "#base"}
+			}
+		}
+	]
+}
