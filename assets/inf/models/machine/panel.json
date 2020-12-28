@@ -1,9 +1,9 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"particle": "minecraft:block/smooth_stone",
 		"base": "inf:machine/panel/base",
-		"antenna": "inf:machine/panel/redstone_torch"
+		"antenna": "inf:machine/panel/transmitter_antenna",
+		"particle": "minecraft:block/smooth_stone"
 	},
 	"elements": [
 		{
