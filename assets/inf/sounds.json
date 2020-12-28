@@ -1,0 +1,62 @@
+{
+	"notify.bit": {
+		"sounds": [
+			"note/bit"
+		]
+	},
+	"notify.bell": {
+		"sounds": [
+			"note/bell"
+		]
+	},
+	"notify.chime": {
+		"sounds": [
+			"note/icechime"
+		]
+	},
+	"notify.harp": {
+		"sounds": [
+			"note/harp2"
+		]
+	},
+	"notify.xylo": {
+		"sounds": [
+			"note/xylobone"
+		]
+	},
+	"notify.iron_xylo": {
+		"sounds": [
+			"note/iron_xylophone"
+		]
+	},
+	"notify.didgeridoo": {
+		"sounds": [
+			"note/didgeridoo"
+		]
+	},
+	"notify.pling": {
+		"sounds": [
+			"note/pling"
+		]
+	},
+	"notify.beacon": {
+		"sounds": [
+			"block/beacon/power3"
+		]
+	},
+	"machine.filter.take": {
+		"sounds": [
+			"entity/itemframe/remove_item1",
+			"entity/itemframe/remove_item2",
+			"entity/itemframe/remove_item3",
+			"entity/itemframe/remove_item4"
+		],
+		"subtitle": "subtitles.machine.filter.take"
+	},
+	"machine.filter.eject": {
+		"sounds": [
+			"random/bow"
+		],
+		"subtitle": "subtitles.machine.filter.eject"
+	}
+}
