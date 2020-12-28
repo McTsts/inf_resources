@@ -1,7 +1,7 @@
 {
   "variants": {
     "attached=false,facing=east,powered=false": {
-      "model": "minecraft:block/tripwire_hook",
+      "model": "inf:machine/panel/receiver",
       "y": 90
     },
     "attached=false,facing=east,powered=true": {
@@ -9,13 +9,13 @@
       "y": 90
     },
     "attached=false,facing=north,powered=false": {
-      "model": "minecraft:block/tripwire_hook"
+      "model": "inf:machine/panel/receiver"
     },
     "attached=false,facing=north,powered=true": {
       "model": "inf:machine/filter/nose"
     },
     "attached=false,facing=south,powered=false": {
-      "model": "minecraft:block/tripwire_hook",
+      "model": "inf:machine/panel/receiver",
       "y": 180
     },
     "attached=false,facing=south,powered=true": {
@@ -23,7 +23,7 @@
       "y": 180
     },
     "attached=false,facing=west,powered=false": {
-      "model": "minecraft:block/tripwire_hook",
+      "model": "inf:machine/panel/receiver",
       "y": 270
     },
     "attached=false,facing=west,powered=true": {
@@ -31,7 +31,7 @@
       "y": 270
     },
     "attached=true,facing=east,powered=false": {
-      "model": "minecraft:block/tripwire_hook_attached",
+      "model": "inf:machine/panel/transmitter",
       "y": 90
     },
     "attached=true,facing=east,powered=true": {
@@ -39,13 +39,13 @@
       "y": 90
     },
     "attached=true,facing=north,powered=false": {
-      "model": "minecraft:block/tripwire_hook_attached"
+      "model": "inf:machine/panel/transmitter"
     },
     "attached=true,facing=north,powered=true": {
       "model": "minecraft:block/tripwire_hook_attached_on"
     },
     "attached=true,facing=south,powered=false": {
-      "model": "minecraft:block/tripwire_hook_attached",
+      "model": "inf:machine/panel/transmitter",
       "y": 180
     },
     "attached=true,facing=south,powered=true": {
@@ -53,7 +53,7 @@
       "y": 180
     },
     "attached=true,facing=west,powered=false": {
-      "model": "minecraft:block/tripwire_hook_attached",
+      "model": "inf:machine/panel/transmitter",
       "y": 270
     },
     "attached=true,facing=west,powered=true": {
