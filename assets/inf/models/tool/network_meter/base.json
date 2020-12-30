@@ -1,0 +1,97 @@
+{
+	"gui_light": "front",
+	"parent": "block/block",
+	"textures": {
+		"particle": "inf:tool/network_meter/base",
+		"base": "inf:tool/network_meter/base",
+		"channel": "inf:machine/generic/0",
+		"signal": "inf:tool/network_meter/signal_1"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 6],
+			"to": [12, 13, 9],
+			"faces": {
+				"north": {"uv": [10, 1.5, 14.5, 8], "texture": "#base"},
+				"east": {"uv": [14.5, 1.5, 16, 8], "texture": "#base"},
+				"south": {"uv": [10, 9.5, 14.5, 16], "texture": "#base"},
+				"west": {"uv": [8.5, 1.5, 10, 8], "texture": "#base"},
+				"up": {"uv": [10, 0, 14.5, 1.5], "texture": "#base"},
+				"down": {"uv": [10, 8, 14.5, 9.5], "texture": "#base"}
+			}
+		},
+		{
+			"from": [4, 5, 9],
+			"to": [11, 12, 10],
+			"faces": {
+				"east": {"uv": [4, 0.5, 4.5, 4], "texture": "#base"},
+				"south": {"uv": [0.5, 0.5, 4, 4], "texture": "#base"},
+				"west": {"uv": [0, 0.5, 0.5, 4], "texture": "#base"},
+				"up": {"uv": [0.5, 0, 4, 0.5], "texture": "#base"},
+				"down": {"uv": [0.5, 4, 4, 4.5], "texture": "#base"}
+			}
+		},
+		{
+			"from": [6, 1, 9],
+			"to": [9, 4, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 1.5], "texture": "#base"},
+				"east": {"uv": [7.5, 0.5, 8, 2], "texture": "#base"},
+				"south": {"uv": [6, 0.5, 7.5, 2], "texture": "#base"},
+				"west": {"uv": [5.5, 0.5, 6, 2], "texture": "#base"},
+				"up": {"uv": [6, 0, 7.5, 0.5], "texture": "#base"},
+				"down": {"uv": [6, 2, 7.5, 2.5], "texture": "#base"}
+			}
+		},
+		{
+			"from": [12, 9, 7],
+			"to": [13, 16, 8],
+			"faces": {
+				"north": {"uv": [5, 0.5, 5.5, 4], "texture": "#base"},
+				"east": {"uv": [5, 0.5, 5.5, 4], "texture": "#base"},
+				"south": {"uv": [5, 0.5, 5.5, 4], "texture": "#base"},
+				"west": {"uv": [5, 0.5, 5.5, 4], "texture": "#base"},
+				"up": {"uv": [5, 0, 5.5, 0.5], "texture": "#base"},
+				"down": {"uv": [5, 4, 5.5, 4.5], "texture": "#base"}
+			}
+		},
+		{
+			"from": [4, 5, 9.1],
+			"to": [8, 12, 10.1],
+			"faces": {
+				"south": {"uv": [0, 0, 4, 7], "texture": "#channel"}
+			}
+		},
+		{
+			"from": [8, 5, 9.1],
+			"to": [11, 12, 10.1],
+			"faces": {
+				"south": {"uv": [0, 0, 3, 7], "texture": "#signal"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.25, 2.5, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 2.5, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-7, -23, 0],
+			"translation": [1, 4.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-7, -33, 0],
+			"translation": [0, 4.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-0.5, 0, 0],
+			"scale": [1, 1, 0.25]
+		}
+	}
+}

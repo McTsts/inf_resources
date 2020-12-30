@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "inf:machine/relay/base",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "inf:machine/relay/base"
+    },
+    "facing=south": {
+      "model": "inf:machine/relay/base",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "inf:machine/relay/base",
+      "y": 270
+    }
+  }
+}

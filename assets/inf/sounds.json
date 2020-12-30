@@ -51,12 +51,12 @@
 			"entity/itemframe/remove_item3",
 			"entity/itemframe/remove_item4"
 		],
-		"subtitle": "subtitles.machine.filter.take"
+		"subtitle": "subtitles.machine.filter.filter"
 	},
 	"machine.filter.eject": {
 		"sounds": [
 			"random/bow"
 		],
-		"subtitle": "subtitles.machine.filter.eject"
+		"subtitle": "subtitles.machine.filter.filter"
 	}
 }
