@@ -1,0 +1,8 @@
+{
+	"parent": "inf:machine/conveyor",
+	"textures": {
+		"particle": "minecraft:block/lodestone_top",
+		"base": "inf:machine/conveyor/level_3/base",
+		"belt": "inf:machine/conveyor/level_3/belt"
+	}
+}
