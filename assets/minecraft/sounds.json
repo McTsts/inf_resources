@@ -1,2 +1,30 @@
 {
+	"block.dispenser.dispense": {
+		"sounds": [],
+		"replace": true
+	},
+	"block.dispenser.fail": {
+		"sounds": [],
+		"replace": true
+	},
+	"block.dispenser.launch": {
+		"sounds": [],
+		"replace": true
+	},
+	"block.tripwire.attach": {
+		"sounds": [],
+		"replace": true
+	},
+	"block.tripwire.click_off": {
+		"sounds": [],
+		"replace": true
+	},
+	"block.tripwire.click_on": {
+		"sounds": [],
+		"replace": true
+	},
+	"block.tripwire.detach": {
+		"sounds": [],
+		"replace": true
+	}
 }

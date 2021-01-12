@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "inf:tool/bridge_builder/level_3"
+	}
+}

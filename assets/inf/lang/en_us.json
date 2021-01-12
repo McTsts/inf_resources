@@ -1,3 +1,26 @@
 {
-	"subtitles.machine.filter.filter":"Filter Filters"
+	"tier.inf.0": "%s",
+	"tier.inf.1": "Scrap %s",
+	"tier.inf.2": "Steel %s",
+	"tier.inf.3": "Titanium %s",
+
+	"machine.inf.conveyor": "Conveyor Belt",
+	"machine.inf.filter": "Filter",
+	"subtitles.machine.filter.filter":"Filter Filters",
+	
+	"machine.inf.panel.receiver": "§eReceiver",
+	"machine.inf.panel.transmitter": "§eTransmitter",
+	
+	"tool.inf.category": "Tool",
+	
+	"tool.inf.wrench": "Wrench",
+	"tool.inf.wrench.desc.1": "Allows you to break",
+	"tool.inf.wrench.desc.2": "machines and building",
+	"tool.inf.wrench.desc.3": "blocks you've placed.",
+	
+	"tool.inf.bridge_builder": "Bridge Builder",
+	"tool.inf.bridge_builder.desc.1": "Builds a bridge using",
+	"tool.inf.bridge_builder.desc.2": "the building blocks in",
+	"tool.inf.bridge_builder.desc.3": "your offhand.",
+	"subtitles.tool.bridge_builder.build": "Bridge Building"
 }

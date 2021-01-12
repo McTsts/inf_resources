@@ -4,7 +4,8 @@
 		"layer0": "minecraft:item/stick"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "inf:tool/bridge_builder/level_1" },
-		{ "predicate": { "custom_model_data": 2}, "model": "inf:tool/bridge_builder/level_2" }
+		{ "predicate": { "custom_model_data": 1181}, "model": "inf:tool/bridge_builder/level_1" },
+		{ "predicate": { "custom_model_data": 1281}, "model": "inf:tool/bridge_builder/level_2" },
+		{ "predicate": { "custom_model_data": 1381}, "model": "inf:tool/bridge_builder/level_3" }
 	]
 }

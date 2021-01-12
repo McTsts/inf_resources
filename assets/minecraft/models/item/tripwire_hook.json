@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/tripwire_hook"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2157}, "model": "inf:machine/panel/receiver" },
+		{ "predicate": { "custom_model_data": 2158}, "model": "inf:machine/panel/transmitter" },
+		{ "predicate": { "custom_model_data": 9999}, "model": "empty" }
+	]
+}
