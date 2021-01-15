@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/drill/level_1/gui",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "inf:machine/drill/level_1/head" }
+	]
+}
