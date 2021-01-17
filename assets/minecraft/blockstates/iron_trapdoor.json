@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "inf:machine/elevator/base",
+			"y": 270
+		},
+		"facing=north": {
+			"model": "inf:machine/elevator/base",
+			"y": 180
+		},
+		"facing=south": {
+			"model": "inf:machine/elevator/base",
+			"y": 0
+		},
+		"facing=west": {
+			"model": "inf:machine/elevator/base",
+			"y": 90
+		}
+	}
+}

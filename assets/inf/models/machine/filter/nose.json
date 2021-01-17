@@ -1,14 +1,16 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"particle": "empty",
-		"base": "inf:machine/filter/base"
+		"base": "inf:machine/filter/base",
+		"particle": "block/furnace_top"
 	},
+	"ambientocclusion": false,
 	"elements": [
 		{
 			"name": "nose",
-			"from": [5, 3, 17],
-			"to": [11, 8, 20],
+			"from": [5, -13, 1],
+			"to": [11, -8, 4],
+			"shade": false,
 			"faces": {
 				"north": {"uv": [0, 9.5, 3, 12], "texture": "#base"},
 				"east": {"uv": [3, 9.5, 4.5, 12], "texture": "#base"},

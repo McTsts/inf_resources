@@ -26,5 +26,27 @@
 	"block.tripwire.detach": {
 		"sounds": [],
 		"replace": true
+	},
+	"item.armor.equip_generic": {
+		"sounds": [],
+		"replace": "true"
+	},
+	"entity.item_frame.place": {
+		"sounds": [
+			"dig/stone1",
+			"dig/stone2",
+			"dig/stone3",
+			"dig/stone4"
+		],
+		"subtitle": "subtitles.block.generic.place",
+		"replace": "true"
+	},
+	"block.iron_trapdoor.close": {
+		"sounds": [],
+		"replace": "true"
+	},
+	"block.iron_trapdoor.open": {
+		"sounds": [],
+		"replace": "true"
 	}
 }

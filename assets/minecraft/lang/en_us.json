@@ -1,8 +1,9 @@
 {
-	"block.minecraft.dropper": "Filter",
-	"block.minecraft.magenta_glazed_terracotta": "Scrap Conveyor Belt",
-	"block.minecraft.gray_glazed_terracotta": "Titanium Conveyor Belt",
-	"block.minecraft.cyan_glazed_terracotta": "Steel Conveyor Belt",
+	"block.minecraft.dropper": "§eFilter",
+	"container.dropper": "Filter",
+	"block.minecraft.magenta_glazed_terracotta": "§eScrap Conveyor Belt",
+	"block.minecraft.gray_glazed_terracotta": "§eTitanium Conveyor Belt",
+	"block.minecraft.cyan_glazed_terracotta": "§eSteel Conveyor Belt",
 	
 	"block.minecraft.white_glazed_terracotta": "White Glazed Terracotta",
 	"block.minecraft.orange_glazed_terracotta": "Orange Glazed Terracotta",

@@ -7,6 +7,7 @@
 	"machine.inf.conveyor": "Conveyor Belt",
 	"machine.inf.filter": "Filter",
 	"subtitles.machine.filter.filter":"Filter Filters",
+	"machine.inf.elevator": "Elevator",
 	
 	"machine.inf.panel.receiver": "§eReceiver",
 	"machine.inf.panel.transmitter": "§eTransmitter",
