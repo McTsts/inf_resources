@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/transmitter",
+	"textures": {
+		"display": "inf:machine/generic/1"
+	}
+}

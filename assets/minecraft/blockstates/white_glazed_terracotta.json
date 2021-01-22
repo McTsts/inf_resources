@@ -1,19 +1,19 @@
 {
   "variants": {
     "facing=east": {
-      "model": "inf:machine/conveyor/level_3",
+      "model": "inf:machine/conveyor/level_1",
       "y": 90
     },
     "facing=north": {
-      "model": "inf:machine/conveyor/level_3",
+      "model": "inf:machine/conveyor/level_1",
       "y": 0
     },
     "facing=south": {
-      "model": "inf:machine/conveyor/level_3",
+      "model": "inf:machine/conveyor/level_1",
       "y": 180
     },
     "facing=west": {
-      "model": "inf:machine/conveyor/level_3",
+      "model": "inf:machine/conveyor/level_1",
       "y": 270
     }
   }

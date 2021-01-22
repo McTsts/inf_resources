@@ -48,5 +48,23 @@
 	"block.iron_trapdoor.open": {
 		"sounds": [],
 		"replace": "true"
+	},
+	"block.barrel.close": {
+		"sounds": ["block/shulker_box/close"],
+		"subtitle": "subtitles.block.crate.open",
+		"replace": "true"
+	},
+	"block.barrel.open": {
+		"sounds": ["block/shulker_box/open"],
+		"subtitle": "subtitles.block.crate.open",
+		"replace": "true"
+	},
+	"block.chest.close": {
+		"sounds": [],
+		"replace": "true"
+	},
+	"block.chest.open": {
+		"sounds": [],
+		"replace": "true"
 	}
 }

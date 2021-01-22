@@ -1,3 +1,3 @@
 {
-	"parent": "inf:machine/filter"
+	"parent": "inf:machine/filter/gui"
 }

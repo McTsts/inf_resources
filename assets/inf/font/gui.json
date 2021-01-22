@@ -1,0 +1,27 @@
+{
+	"providers": [
+		{ "type": "bitmap", "file": "font/space.png", "ascent": -32768, "height": -3, "chars": ["<"] },
+		{ "type": "bitmap", "file": "font/space.png", "ascent": -32768, "height": -164, "chars": [">"] },
+		{
+			"type": "bitmap",
+			"file": "inf:gui/machine/component_table.png",
+			"ascent": -4,
+			"height": 54,
+			"chars": ["c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "inf:gui/machine/machine_maker.png",
+			"ascent": -4,
+			"height": 108,
+			"chars": ["m"]
+		},
+		{
+			"type": "bitmap",
+			"file": "inf:gui/machine/wiring_table.png",
+			"ascent": -4,
+			"height": 54,
+			"chars": ["w"]
+		}
+	]
+}

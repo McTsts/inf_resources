@@ -3,11 +3,17 @@
 	"tier.inf.1": "Scrap %s",
 	"tier.inf.2": "Steel %s",
 	"tier.inf.3": "Titanium %s",
+	
+	"machine.inf.component_table": "Component Table",
+	"machine.inf.machine_maker": "Machine Maker",
+	"machine.inf.wiring_table": "Wiring Table",
 
 	"machine.inf.conveyor": "Conveyor Belt",
 	"machine.inf.filter": "Filter",
 	"subtitles.machine.filter.filter":"Filter Filters",
 	"machine.inf.elevator": "Elevator",
+	
+	"machine.inf.drill": "Drill",
 	
 	"machine.inf.panel.receiver": "§eReceiver",
 	"machine.inf.panel.transmitter": "§eTransmitter",

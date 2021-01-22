@@ -3,8 +3,45 @@
 	"textures": {
 		"layer0": "minecraft:item/item_frame"
 	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1053}, "model": "inf:machine/elevator/all" },
-		{ "predicate": { "custom_model_data": 9999}, "model": "inf:machine/elevator/tray" }
+	"overrides": [	
+		{ "predicate": { "custom_model_data": 1053}, "model": "inf:machine/elevator/gui" },
+		{ "predicate": { "custom_model_data": 2157}, "model": "inf:machine/panel/receiver" },
+		{ "predicate": { "custom_model_data": 2158}, "model": "inf:machine/panel/transmitter" },
+		
+		{ "predicate": { "custom_model_data": 105300}, "model": "inf:machine/elevator/tray" },
+		
+		{ "predicate": { "custom_model_data": 215700}, "model": "inf:machine/panel/receiver/0" },
+		{ "predicate": { "custom_model_data": 215701}, "model": "inf:machine/panel/receiver/1" },
+		{ "predicate": { "custom_model_data": 215702}, "model": "inf:machine/panel/receiver/2" },
+		{ "predicate": { "custom_model_data": 215703}, "model": "inf:machine/panel/receiver/3" },
+		{ "predicate": { "custom_model_data": 215704}, "model": "inf:machine/panel/receiver/4" },
+		{ "predicate": { "custom_model_data": 215705}, "model": "inf:machine/panel/receiver/5" },
+		{ "predicate": { "custom_model_data": 215706}, "model": "inf:machine/panel/receiver/6" },
+		{ "predicate": { "custom_model_data": 215707}, "model": "inf:machine/panel/receiver/7" },
+		{ "predicate": { "custom_model_data": 215708}, "model": "inf:machine/panel/receiver/8" },
+		{ "predicate": { "custom_model_data": 215709}, "model": "inf:machine/panel/receiver/9" },
+		{ "predicate": { "custom_model_data": 215710}, "model": "inf:machine/panel/receiver/a" },
+		{ "predicate": { "custom_model_data": 215711}, "model": "inf:machine/panel/receiver/b" },
+		{ "predicate": { "custom_model_data": 215712}, "model": "inf:machine/panel/receiver/c" },
+		{ "predicate": { "custom_model_data": 215713}, "model": "inf:machine/panel/receiver/d" },
+		{ "predicate": { "custom_model_data": 215714}, "model": "inf:machine/panel/receiver/e" },
+		{ "predicate": { "custom_model_data": 215715}, "model": "inf:machine/panel/receiver/f" },
+		
+		{ "predicate": { "custom_model_data": 215800}, "model": "inf:machine/panel/transmitter/0" },
+		{ "predicate": { "custom_model_data": 215801}, "model": "inf:machine/panel/transmitter/1" },
+		{ "predicate": { "custom_model_data": 215802}, "model": "inf:machine/panel/transmitter/2" },
+		{ "predicate": { "custom_model_data": 215803}, "model": "inf:machine/panel/transmitter/3" },
+		{ "predicate": { "custom_model_data": 215804}, "model": "inf:machine/panel/transmitter/4" },
+		{ "predicate": { "custom_model_data": 215805}, "model": "inf:machine/panel/transmitter/5" },
+		{ "predicate": { "custom_model_data": 215806}, "model": "inf:machine/panel/transmitter/6" },
+		{ "predicate": { "custom_model_data": 215807}, "model": "inf:machine/panel/transmitter/7" },
+		{ "predicate": { "custom_model_data": 215808}, "model": "inf:machine/panel/transmitter/8" },
+		{ "predicate": { "custom_model_data": 215809}, "model": "inf:machine/panel/transmitter/9" },
+		{ "predicate": { "custom_model_data": 215810}, "model": "inf:machine/panel/transmitter/a" },
+		{ "predicate": { "custom_model_data": 215811}, "model": "inf:machine/panel/transmitter/b" },
+		{ "predicate": { "custom_model_data": 215812}, "model": "inf:machine/panel/transmitter/c" },
+		{ "predicate": { "custom_model_data": 215813}, "model": "inf:machine/panel/transmitter/d" },
+		{ "predicate": { "custom_model_data": 215814}, "model": "inf:machine/panel/transmitter/e" },
+		{ "predicate": { "custom_model_data": 215815}, "model": "inf:machine/panel/transmitter/f" }
 	]
 }

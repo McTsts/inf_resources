@@ -1,9 +1,41 @@
 {
-	"parent": "minecraft:item/handheld",
+	"parent": "minecraft:item/handheld_rod",
 	"textures": {
 		"layer0": "minecraft:item/warped_fungus_on_a_stick"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "inf:tool/network_meter/base" }
+		{ "predicate": { "custom_model_data": 1002, "damaged": 0, "damage": 0.01 }, "model": "minecraft:block/sandstone" },
+		{ "predicate": { "custom_model_data": 1052, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/filter/gui" },
+		{ "predicate": { "custom_model_data": 1053, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/elevator/gui" },
+		
+		{ "predicate": { "custom_model_data": 1101, "damaged": 0, "damage": 0.01 }, "model": "inf:item/scrap" },
+		{ "predicate": { "custom_model_data": 1150, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/conveyor/level_1" },
+		{ "predicate": { "custom_model_data": 1151, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/drill/level_1/gui" },
+		{ "predicate": { "custom_model_data": 1180, "damaged": 0, "damage": 0.01 }, "model": "inf:tool/wrench/level_1" },
+		{ "predicate": { "custom_model_data": 1181, "damaged": 0, "damage": 0.01 }, "model": "inf:tool/bridge_builder/level_1" },
+		
+		{ "predicate": { "custom_model_data": 1201, "damaged": 0, "damage": 0.01 }, "model": "inf:item/steel" },
+		{ "predicate": { "custom_model_data": 1250, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/conveyor/level_2" },
+		{ "predicate": { "custom_model_data": 1280, "damaged": 0, "damage": 0.01 }, "model": "inf:tool/wrench/level_2" },
+		{ "predicate": { "custom_model_data": 1281, "damaged": 0, "damage": 0.01 }, "model": "inf:tool/bridge_builder/level_2" },
+		
+		{ "predicate": { "custom_model_data": 1201, "damaged": 0, "damage": 0.01 }, "model": "inf:item/titanium" },
+		{ "predicate": { "custom_model_data": 1250, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/conveyor/level_3" },
+		{ "predicate": { "custom_model_data": 1280, "damaged": 0, "damage": 0.01 }, "model": "inf:tool/wrench/level_3" },
+		{ "predicate": { "custom_model_data": 1281, "damaged": 0, "damage": 0.01 }, "model": "inf:tool/bridge_builder/level_3" },
+		
+		{ "predicate": { "custom_model_data": 2150, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/clock" },
+		{ "predicate": { "custom_model_data": 2151, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/delay" },
+		{ "predicate": { "custom_model_data": 2152, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/repeat" },
+		{ "predicate": { "custom_model_data": 2153, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/and" },
+		{ "predicate": { "custom_model_data": 2154, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/not" },
+		{ "predicate": { "custom_model_data": 2155, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/toggle" },
+		{ "predicate": { "custom_model_data": 2156, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/or" },
+		{ "predicate": { "custom_model_data": 2157, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/receiver" },
+		{ "predicate": { "custom_model_data": 2158, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/transmitter" },
+		
+		{ "predicate": { "custom_model_data": 9999, "damaged": 0, "damage": 0.01 }, "model": "empty" },
+		
+		{ "predicate": { "custom_model_data": 1, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/base" }
 	]
 }
