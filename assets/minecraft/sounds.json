@@ -31,7 +31,23 @@
 		"sounds": [],
 		"replace": "true"
 	},
+	"entity.item_frame.add_item": {
+		"sounds": [],
+		"replace": "true"
+	},
+	"entity.item_frame.break": {
+		"sounds": [],
+		"replace": "true"
+	},
 	"entity.item_frame.place": {
+		"sounds": [],
+		"replace": "true"
+	},
+	"entity.item_frame.remove_item": {
+		"sounds": [],
+		"replace": "true"
+	},
+	"entity.item_frame.rotate_item": {
 		"sounds": [],
 		"replace": "true"
 	},
