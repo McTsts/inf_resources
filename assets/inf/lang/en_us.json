@@ -17,6 +17,7 @@
 	
 	"machine.inf.panel.receiver": "§eReceiver",
 	"machine.inf.panel.transmitter": "§eTransmitter",
+	"machine.inf.panel.long_range_transmitter": "§eLong Range Transmitter",
 	
 	"tool.inf.category": "Tool",
 	
