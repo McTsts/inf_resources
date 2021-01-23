@@ -2,7 +2,6 @@
 	"container.crafting": "§f\uE000",
 	"gui.recipebook.search_hint": "",
 	
-	"block.minecraft.dropper": "§eFilter",
 	"container.dropper": "Filter",
 	"block.minecraft.white_glazed_terracotta": "§eScrap Conveyor Belt",
 	"block.minecraft.orange_glazed_terracotta": "§eSteel Conveyor Belt",

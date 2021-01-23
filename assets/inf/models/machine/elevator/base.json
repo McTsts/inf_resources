@@ -3,7 +3,7 @@
 	"textures": {
 		"belt": "inf:machine/elevator/belt",
 		"base": "inf:machine/elevator/base",
-		"particle": "minecraft:block/observer_side"
+		"particle": "block/observer_side"
 	},
 	"elements": [
 		{
@@ -64,7 +64,7 @@
 			}
 		},
 		{
-			"from": [6, 16, 0],
+			"from": [6, 16, -0.01],
 			"to": [10, 17, 3],
 			"faces": {
 				"north": {"uv": [2, 12, 6, 13], "texture": "#belt", "cullface": "up"},
@@ -75,7 +75,7 @@
 			}
 		},
 		{
-			"from": [6, 0, 0],
+			"from": [6, 0, -0.01],
 			"to": [10, 16, 1],
 			"faces": {
 				"north": {"uv": [2, 0, 6, 16], "rotation": 180, "texture": "#belt", "cullface": "north"},

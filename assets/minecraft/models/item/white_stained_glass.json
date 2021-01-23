@@ -1,5 +1,5 @@
 {
-	"parent": "inf:machine/drill/level_1/gui",
+	"parent": "minecraft:block/white_stained_glass",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "inf:machine/drill/level_1/head" }
 	]

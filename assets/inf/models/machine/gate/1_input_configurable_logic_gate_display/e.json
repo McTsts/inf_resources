@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/gate/1_input_configurable_logic_gate_display",
+	"textures": {
+		"display": "inf:machine/generic/e"
+	}
+}

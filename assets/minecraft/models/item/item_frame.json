@@ -4,11 +4,30 @@
 		"layer0": "minecraft:item/item_frame"
 	},
 	"overrides": [	
+		{ "predicate": { "custom_model_data": 1052}, "model": "inf:machine/filter/gui" },
 		{ "predicate": { "custom_model_data": 1053}, "model": "inf:machine/elevator/gui" },
+		{ "predicate": { "custom_model_data": 1151}, "model": "inf:machine/drill/level_1/gui" },
 		{ "predicate": { "custom_model_data": 2157}, "model": "inf:machine/panel/receiver" },
 		{ "predicate": { "custom_model_data": 2158}, "model": "inf:machine/panel/transmitter" },
 		
 		{ "predicate": { "custom_model_data": 105300}, "model": "inf:machine/elevator/tray" },
+		
+		{ "predicate": { "custom_model_data": 215000}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/0" },
+		{ "predicate": { "custom_model_data": 215001}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/1" },
+		{ "predicate": { "custom_model_data": 215002}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/2" },
+		{ "predicate": { "custom_model_data": 215003}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/3" },
+		{ "predicate": { "custom_model_data": 215004}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/4" },
+		{ "predicate": { "custom_model_data": 215005}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/5" },
+		{ "predicate": { "custom_model_data": 215006}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/6" },
+		{ "predicate": { "custom_model_data": 215007}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/7" },
+		{ "predicate": { "custom_model_data": 215008}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/8" },
+		{ "predicate": { "custom_model_data": 215009}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/9" },
+		{ "predicate": { "custom_model_data": 215010}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/a" },
+		{ "predicate": { "custom_model_data": 215011}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/b" },
+		{ "predicate": { "custom_model_data": 215012}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/c" },
+		{ "predicate": { "custom_model_data": 215013}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/d" },
+		{ "predicate": { "custom_model_data": 215014}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/e" },
+		{ "predicate": { "custom_model_data": 215015}, "model": "inf:machine/gate/1_input_configurable_logic_gate_display/f" },
 		
 		{ "predicate": { "custom_model_data": 215700}, "model": "inf:machine/panel/receiver/0" },
 		{ "predicate": { "custom_model_data": 215701}, "model": "inf:machine/panel/receiver/1" },
