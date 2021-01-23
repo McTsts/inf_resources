@@ -61,7 +61,7 @@
 	},
 	"block.barrel.close": {
 		"sounds": ["block/shulker_box/close"],
-		"subtitle": "subtitles.block.crate.open",
+		"subtitle": "subtitles.block.crate.close",
 		"replace": "true"
 	},
 	"block.barrel.open": {

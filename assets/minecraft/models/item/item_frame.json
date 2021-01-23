@@ -9,6 +9,7 @@
 		{ "predicate": { "custom_model_data": 1151}, "model": "inf:machine/drill/level_1/gui" },
 		{ "predicate": { "custom_model_data": 2157}, "model": "inf:machine/panel/receiver" },
 		{ "predicate": { "custom_model_data": 2158}, "model": "inf:machine/panel/transmitter" },
+		{ "predicate": { "custom_model_data": 2159}, "model": "inf:machine/panel/long_range_transmitter" },
 		
 		{ "predicate": { "custom_model_data": 105300}, "model": "inf:machine/elevator/tray" },
 		
@@ -45,6 +46,10 @@
 		{ "predicate": { "custom_model_data": 215713}, "model": "inf:machine/panel/receiver/d" },
 		{ "predicate": { "custom_model_data": 215714}, "model": "inf:machine/panel/receiver/e" },
 		{ "predicate": { "custom_model_data": 215715}, "model": "inf:machine/panel/receiver/f" },
+		{ "predicate": { "custom_model_data": 215716}, "model": "inf:machine/panel/receiver/g" },
+		{ "predicate": { "custom_model_data": 215717}, "model": "inf:machine/panel/receiver/h" },
+		{ "predicate": { "custom_model_data": 215718}, "model": "inf:machine/panel/receiver/i" },
+		{ "predicate": { "custom_model_data": 215719}, "model": "inf:machine/panel/receiver/j" },
 		
 		{ "predicate": { "custom_model_data": 215800}, "model": "inf:machine/panel/transmitter/0" },
 		{ "predicate": { "custom_model_data": 215801}, "model": "inf:machine/panel/transmitter/1" },
@@ -56,11 +61,16 @@
 		{ "predicate": { "custom_model_data": 215807}, "model": "inf:machine/panel/transmitter/7" },
 		{ "predicate": { "custom_model_data": 215808}, "model": "inf:machine/panel/transmitter/8" },
 		{ "predicate": { "custom_model_data": 215809}, "model": "inf:machine/panel/transmitter/9" },
-		{ "predicate": { "custom_model_data": 215810}, "model": "inf:machine/panel/transmitter/a" },
-		{ "predicate": { "custom_model_data": 215811}, "model": "inf:machine/panel/transmitter/b" },
-		{ "predicate": { "custom_model_data": 215812}, "model": "inf:machine/panel/transmitter/c" },
-		{ "predicate": { "custom_model_data": 215813}, "model": "inf:machine/panel/transmitter/d" },
-		{ "predicate": { "custom_model_data": 215814}, "model": "inf:machine/panel/transmitter/e" },
-		{ "predicate": { "custom_model_data": 215815}, "model": "inf:machine/panel/transmitter/f" }
+		
+		{ "predicate": { "custom_model_data": 215910}, "model": "inf:machine/panel/long_range_transmitter/a" },
+		{ "predicate": { "custom_model_data": 215911}, "model": "inf:machine/panel/long_range_transmitter/b" },
+		{ "predicate": { "custom_model_data": 215912}, "model": "inf:machine/panel/long_range_transmitter/c" },
+		{ "predicate": { "custom_model_data": 215913}, "model": "inf:machine/panel/long_range_transmitter/d" },
+		{ "predicate": { "custom_model_data": 215914}, "model": "inf:machine/panel/long_range_transmitter/e" },
+		{ "predicate": { "custom_model_data": 215915}, "model": "inf:machine/panel/long_range_transmitter/f" },
+		{ "predicate": { "custom_model_data": 215916}, "model": "inf:machine/panel/long_range_transmitter/g" },
+		{ "predicate": { "custom_model_data": 215917}, "model": "inf:machine/panel/long_range_transmitter/h" },
+		{ "predicate": { "custom_model_data": 215918}, "model": "inf:machine/panel/long_range_transmitter/i" },
+		{ "predicate": { "custom_model_data": 215919}, "model": "inf:machine/panel/long_range_transmitter/j" }
 	]
 }
