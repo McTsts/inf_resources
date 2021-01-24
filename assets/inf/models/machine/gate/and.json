@@ -1,6 +1,6 @@
 {
 	"parent": "inf:machine/gate/2_input_logic_gate",
 	"textures": {
-		"plate": "inf:machine/gate/and_plate"
+		"plate": "inf:machine/gate/and/plate"
 	}
 }
