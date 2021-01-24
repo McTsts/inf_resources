@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/receiver/bottom_pressed",
+	"textures": {
+		"display": "inf:machine/generic/c"
+	}
+}

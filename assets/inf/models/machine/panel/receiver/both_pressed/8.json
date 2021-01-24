@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/receiver/both_pressed",
+	"textures": {
+		"display": "inf:machine/generic/8"
+	}
+}

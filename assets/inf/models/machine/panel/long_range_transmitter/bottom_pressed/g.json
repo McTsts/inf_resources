@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/long_range_transmitter/bottom_pressed",
+	"textures": {
+		"display": "inf:machine/generic/g"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/top_pressed",
+	"textures": {
+		"antenna": "inf:machine/panel/transmitter_antenna"
+	}
+}
