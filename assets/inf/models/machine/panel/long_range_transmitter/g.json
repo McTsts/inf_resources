@@ -1,6 +1,0 @@
-{
-	"parent": "inf:machine/panel/long_range_transmitter",
-	"textures": {
-		"display": "inf:machine/generic/g"
-	}
-}

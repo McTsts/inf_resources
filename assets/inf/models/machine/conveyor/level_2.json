@@ -1,5 +1,5 @@
 {
-	"parent": "inf:machine/conveyor",
+	"parent": "inf:machine/conveyor/base",
 	"textures": {
 		"particle": "minecraft:block/furnace_top",
 		"base": "inf:machine/conveyor/level_2/base",

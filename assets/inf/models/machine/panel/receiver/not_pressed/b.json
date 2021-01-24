@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/receiver/not_pressed",
+	"textures": {
+		"display": "inf:machine/generic/b"
+	}
+}

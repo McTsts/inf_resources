@@ -1,6 +1,0 @@
-{
-	"parent": "inf:machine/panel/receiver",
-	"textures": {
-		"display": "inf:machine/generic/1"
-	}
-}
