@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/gate/1_input_configurable_logic_gate_gui",
+	"textures": {
+		"plate": "inf:machine/gate/time_plate"
+	}
+}

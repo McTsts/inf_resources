@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east": {
-      "model": "inf:machine/gate/repeat",
+      "model": "inf:machine/gate/repeat/base",
       "y": 90
     },
     "facing=north": {
-      "model": "inf:machine/gate/repeat"
+      "model": "inf:machine/gate/repeat/base"
     },
     "facing=south": {
-      "model": "inf:machine/gate/repeat",
+      "model": "inf:machine/gate/repeat/base",
       "y": 180
     },
     "facing=west": {
-      "model": "inf:machine/gate/repeat",
+      "model": "inf:machine/gate/repeat/base",
       "y": 270
     }
   }

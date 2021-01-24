@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/gate/1_input_configurable_logic_gate_interface/top_pressed",
+	"textures": {
+		"display": "inf:machine/generic/0"
+	}
+}
