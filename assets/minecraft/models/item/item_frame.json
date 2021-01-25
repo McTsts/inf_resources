@@ -7,9 +7,17 @@
 		{ "predicate": { "custom_model_data": 1052}, "model": "inf:machine/filter/gui" },
 		{ "predicate": { "custom_model_data": 1053}, "model": "inf:machine/elevator/gui" },
 		{ "predicate": { "custom_model_data": 1151}, "model": "inf:machine/drill/level_1/gui" },
+		{ "predicate": { "custom_model_data": 2150}, "model": "inf:machine/gate/clock/gui" },
+		{ "predicate": { "custom_model_data": 2151}, "model": "inf:machine/gate/delay/gui" },
+		{ "predicate": { "custom_model_data": 2152}, "model": "inf:machine/gate/repeat/gui" },
+		{ "predicate": { "custom_model_data": 2153}, "model": "inf:machine/gate/and" },
+		{ "predicate": { "custom_model_data": 2154}, "model": "inf:machine/gate/not" },
+		{ "predicate": { "custom_model_data": 2155}, "model": "inf:machine/gate/toggle" },
+		{ "predicate": { "custom_model_data": 2156}, "model": "inf:machine/gate/or" },
 		{ "predicate": { "custom_model_data": 2157}, "model": "inf:machine/panel/receiver/not_pressed" },
 		{ "predicate": { "custom_model_data": 2158}, "model": "inf:machine/panel/transmitter/not_pressed" },
 		{ "predicate": { "custom_model_data": 2159}, "model": "inf:machine/panel/long_range_transmitter/not_pressed" },
+		{ "predicate": { "custom_model_data": 9999}, "model": "empty" },
 		
 		{ "predicate": { "custom_model_data": 105300}, "model": "inf:machine/elevator/tray" },
 		

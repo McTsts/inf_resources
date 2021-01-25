@@ -2,7 +2,7 @@
 	"parent": "block/block",
 	"textures": {
 		"display": "inf:machine/generic/0",
-		"panel_base": "inf:machine/panel/base"
+		"panel_base": "inf:machine/panel/short_range_base"
 	},
 	"elements": [
 		{

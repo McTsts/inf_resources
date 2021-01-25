@@ -2,7 +2,7 @@
 	"parent": "block/block",
 	"textures": {
 		"display": "empty",
-		"base": "inf:machine/panel/base",
+		"base": "inf:machine/panel/short_range_base",
 		"antenna": "inf:machine/panel/transmitter_antenna",
 		"particle": "block/smooth_stone"
 	},

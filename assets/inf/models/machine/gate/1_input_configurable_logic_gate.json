@@ -3,7 +3,7 @@
 	"textures": {
 		"gate_base": "inf:machine/gate/base",
 		"face": "inf:machine/gate/empty_side",
-		"panel_base": "inf:machine/panel/base",
+		"panel_base": "inf:machine/panel/short_range_base",
 		"particle": "minecraft:block/smooth_stone"
 	},
 	"elements": [

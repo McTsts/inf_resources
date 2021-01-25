@@ -1,6 +1,7 @@
 {
 	"parent": "inf:machine/panel/both_pressed",
 	"textures": {
+		"base": "inf:machine/panel/short_range_base",
 		"antenna": "inf:machine/panel/receiver_antenna"
 	}
 }
