@@ -2,8 +2,8 @@
 	"parent": "block/block",
 	"textures": {
 		"base": "inf:machine/gate/base",
-		"particle": "inf:machine/gate/empty_side",
-		"face": "inf:machine/gate/empty_side"
+		"particle": "minecraft:block/smooth_stone",
+		"face": "minecraft:block/smooth_stone"
 	},
 	"elements": [
 		{

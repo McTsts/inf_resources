@@ -2,9 +2,9 @@
 	"parent": "block/block",
 	"textures": {
 		"gate_base": "inf:machine/gate/base",
-		"face": "inf:machine/gate/empty_side",
-		"panel_base": "inf:machine/panel/short_range_base",
-		"particle": "minecraft:block/smooth_stone"
+		"particle": "block/smooth_stone",
+		"face": "block/smooth_stone",
+		"panel_base": "inf:machine/panel/transmitter"
 	},
 	"elements": [
 		{
@@ -114,11 +114,11 @@
 			"from": [15, 4, 8],
 			"to": [16, 11, 12],
 			"faces": {
-				"north": {"uv": [4.5, 10, 5, 13.5], "texture": "#panel_base", "cullface": "west"},
-				"east": {"uv": [2.5, 10, 4.5, 13.5], "texture": "#panel_base", "cullface": "west"},
-				"south": {"uv": [2, 10, 2.5, 13.5], "texture": "#panel_base", "cullface": "west"},
-				"up": {"uv": [2.5, 9.5, 4.5, 10], "rotation": 270, "texture": "#panel_base", "cullface": "west"},
-				"down": {"uv": [2.5, 13.5, 4.5, 14], "rotation": 90, "texture": "#panel_base", "cullface": "west"}
+				"north": {"uv": [2, 15, 9, 16], "texture": "#panel_base", "cullface": "west"},
+				"east": {"uv": [2, 11, 9, 15], "rotation": 270, "texture": "#panel_base", "cullface": "west"},
+				"south": {"uv": [2, 10, 9, 11], "texture": "#panel_base", "cullface": "west"},
+				"up": {"uv": [9, 11, 10, 15], "rotation": 270, "texture": "#panel_base", "cullface": "west"},
+				"down": {"uv": [1, 11, 2, 15], "rotation": 270, "texture": "#panel_base", "cullface": "west"}
 			}
 		}
 	]

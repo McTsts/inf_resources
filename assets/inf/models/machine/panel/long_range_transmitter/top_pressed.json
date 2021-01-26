@@ -1,7 +1,6 @@
 {
 	"parent": "inf:machine/panel/top_pressed",
 	"textures": {
-		"base": "inf:machine/panel/long_range_base",
-		"antenna": "inf:machine/panel/long_range_transmitter_antenna"
+		"type": "inf:machine/panel/long_range_transmitter"
 	}
 }
