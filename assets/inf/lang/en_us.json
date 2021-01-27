@@ -15,9 +15,19 @@
 	
 	"machine.inf.drill": "Drill",
 	
-	"machine.inf.panel.receiver": "§eReceiver",
-	"machine.inf.panel.transmitter": "§eTransmitter",
-	"machine.inf.panel.long_range_transmitter": "§eLong Range Transmitter",
+	"machine.inf.panel.receiver": "Receiver",
+	"machine.inf.panel.transmitter": "Transmitter",
+	"machine.inf.panel.long_range_transmitter": "Long Range Transmitter",
+	"machine.inf.panel.lever": "Lever",
+	
+	"machine.inf.gate": "%s Gate",
+	"machine.inf.gate.not": "NOT",
+	"machine.inf.gate.and": "AND",
+	"machine.inf.gate.or": "OR",
+	"machine.inf.gate.toggle": "TOGGLE",
+	"machine.inf.gate.repeat": "REPEAT",
+	"machine.inf.gate.clock": "CLOCK",
+	"machine.inf.gate.delay": "DELAY",
 	
 	"tool.inf.category": "Tool",
 	

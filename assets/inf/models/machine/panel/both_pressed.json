@@ -6,7 +6,7 @@
 			"from": [3, 3, 13],
 			"to": [13, 12, 16],
 			"faces": {
-				"north": {"uv": [3, 3, 13, 12], "texture": "#board"},
+				"north": {"uv": [0, 0, 10, 9], "texture": "#type"},
 				"east": {"uv": [0, 3, 3, 12], "texture": "#board"},
 				"south": {"uv": [3, 3, 13, 12], "texture": "#board"},
 				"west": {"uv": [13, 3, 16, 12], "texture": "#board"},
