@@ -4,6 +4,33 @@
 	"tier.inf.2": "Steel %s",
 	"tier.inf.3": "Titanium %s",
 	
+	
+	"material.inf.form.nul": "%s",
+	"material.inf.form.ore": "%s Ore",
+	"material.inf.form.ingot": "%s Ingot",
+	"material.inf.form.bar": "%s Bar",
+	"material.inf.form.block": "%s Block",
+	"material.inf.form.beam": "%s Beam",
+	"material.inf.form.panel": "%s Panel",
+	"material.inf.form.wheel": "%s Wheel",
+	"material.inf.form.shaft": "%s Shaft",
+	"material.inf.form.wire": "%s Wire",
+	"material.inf.form.motor": "%s Motor",
+	
+	"material.inf.scrap": "Scrap",
+	"material.inf.steel": "Steel",
+	"material.inf.titanium": "Titanium",
+	"material.inf.iron": "Iron",
+	"material.inf.copper": "Copper",
+	"material.inf.gold": "Gold",
+	"material.inf.silver": "Silver",
+	"material.inf.bamboo": "Bamboo",
+	"material.inf.stone": "Stone",
+	"material.inf.redstone": "Redstone",
+	
+	
+	"machine.inf.category": "Machine",
+	
 	"machine.inf.component_table": "Component Table",
 	"machine.inf.machine_maker": "Machine Maker",
 	"machine.inf.wiring_table": "Wiring Table",
@@ -29,6 +56,7 @@
 	"machine.inf.gate.clock": "CLOCK",
 	"machine.inf.gate.delay": "DELAY",
 	
+	
 	"tool.inf.category": "Tool",
 	
 	"tool.inf.wrench": "Wrench",
@@ -40,5 +68,16 @@
 	"tool.inf.bridge_builder.desc.1": "Builds a bridge using",
 	"tool.inf.bridge_builder.desc.2": "the building blocks in",
 	"tool.inf.bridge_builder.desc.3": "your offhand.",
-	"subtitles.tool.bridge_builder.build": "Bridge Building"
+	"subtitles.tool.bridge_builder.build": "Bridge Building",
+	
+	
+	"fuel.inf.coal": "Coal",
+	
+	
+	"gui.inf.required.header": "Components Required:",
+	"gui.inf.required.list": "%$1s x%$2s",
+	"gui.inf.select": "Click to Select.",
+	"gui.inf.selected": "Click to craft.",
+	"gui.inf.material.change": "Change Material"
+	
 }

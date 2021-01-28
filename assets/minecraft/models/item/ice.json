@@ -1,6 +1,9 @@
 {
     "parent": "block/ice",
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "inf:gui/arrow_up" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "inf:gui/arrow_down" },
+		
 		{ "predicate": { "custom_model_data": 1002 }, "model": "minecraft:block/sandstone" },
 		{ "predicate": { "custom_model_data": 1052 }, "model": "inf:machine/filter/gui" },
 		{ "predicate": { "custom_model_data": 1053 }, "model": "inf:machine/elevator/gui" },
@@ -21,6 +24,10 @@
 		{ "predicate": { "custom_model_data": 1280 }, "model": "inf:tool/wrench/level_3" },
 		{ "predicate": { "custom_model_data": 1281 }, "model": "inf:tool/bridge_builder/level_3" },
 		
+		
+		{ "predicate": { "custom_model_data": 2001 }, "model": "inf:item/iron" },
+		
+		{ "predicate": { "custom_model_data": 2101 }, "model": "inf:item/copper" },
 		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },
 		{ "predicate": { "custom_model_data": 2151 }, "model": "inf:machine/gate/delay/gui" },
 		{ "predicate": { "custom_model_data": 2152 }, "model": "inf:machine/gate/repeat/gui" },
@@ -31,6 +38,13 @@
 		{ "predicate": { "custom_model_data": 2157 }, "model": "inf:machine/panel/receiver/not_pressed" },
 		{ "predicate": { "custom_model_data": 2158 }, "model": "inf:machine/panel/transmitter/not_pressed" },
 		{ "predicate": { "custom_model_data": 2159 }, "model": "inf:machine/panel/long_range_transmitter/not_pressed" },
-		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/panel/lever_up" }
+		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/panel/lever_up" },		
+		
+		{ "predicate": { "custom_model_data": 2201 }, "model": "inf:item/gold" },
+		{ "predicate": { "custom_model_data": 2301 }, "model": "inf:item/silver" },
+		
+		{ "predicate": { "custom_model_data": 3201 }, "model": "inf:item/redstone" },
+		
+		{ "predicate": { "custom_model_data": 9701 }, "model": "inf:item/coal" }
 	]
 }
