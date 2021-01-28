@@ -1,5 +1,30 @@
 {
 	"gui_light": "front",
+	"textures": {
+		"1": "empty",
+		"q": "empty",
+		"a": "empty",
+		
+		"2": "empty",
+		"w": "empty",
+		"s": "empty",
+		
+		"3": "empty",
+		"e": "empty",
+		"d": "empty",
+		
+		"4": "empty",
+		"r": "empty",
+		"f": "empty",
+		
+		"5": "empty",
+		"t": "empty",
+		"g": "empty",
+		
+		"6": "empty",
+		"z": "empty",
+		"h": "empty"
+	},
 	"elements": [
 		{
 			"name": "item - 1",

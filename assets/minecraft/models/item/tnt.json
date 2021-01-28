@@ -1,6 +1,6 @@
 {
     "parent": "block/tnt",
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "c" }
+		{ "predicate": { "custom_model_data": 1 }, "model": "inf:gui/count_display" }
 	]
 }
