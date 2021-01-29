@@ -1,0 +1,6 @@
+{
+	"parent": "inf:tool/drill",
+	"textures": {
+		"layer0": "inf:tool/drill/level_2"
+	}
+}

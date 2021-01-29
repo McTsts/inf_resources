@@ -6,11 +6,11 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1101 }, "model": "inf:item/scrap" },
 		
-		{ "predicate": { "custom_model_data": 1201 }, "model": "inf:item/steel" },
+		{ "predicate": { "custom_model_data": 1201 }, "model": "inf:item/iron" },
 		
 		{ "predicate": { "custom_model_data": 1301 }, "model": "inf:item/titanium" },
 		
-		{ "predicate": { "custom_model_data": 2001 }, "model": "inf:item/iron" },
+		{ "predicate": { "custom_model_data": 2001 }, "model": "inf:item/steel" },
 		{ "predicate": { "custom_model_data": 2101 }, "model": "inf:item/copper" },
 		{ "predicate": { "custom_model_data": 2201 }, "model": "inf:item/gold" },
 		{ "predicate": { "custom_model_data": 2301 }, "model": "inf:item/silver" },

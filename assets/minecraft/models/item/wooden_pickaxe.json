@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/wooden_pickaxe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1182}, "model": "inf:tool/drill/level_1" },
+		{ "predicate": { "custom_model_data": 1282}, "model": "inf:tool/drill/level_2" },
+		{ "predicate": { "custom_model_data": 1382}, "model": "inf:tool/drill/level_3" }
+	]
+}

@@ -13,19 +13,22 @@
 		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" },
 		{ "predicate": { "custom_model_data": 1180 }, "model": "inf:tool/wrench/level_1" },
 		{ "predicate": { "custom_model_data": 1181 }, "model": "inf:tool/bridge_builder/level_1" },
+		{ "predicate": { "custom_model_data": 1182 }, "model": "inf:tool/drill/level_1" },
 		
-		{ "predicate": { "custom_model_data": 1201 }, "model": "inf:item/steel" },
+		{ "predicate": { "custom_model_data": 1201 }, "model": "inf:item/iron" },
 		{ "predicate": { "custom_model_data": 1250 }, "model": "inf:machine/conveyor/level_2" },
 		{ "predicate": { "custom_model_data": 1280 }, "model": "inf:tool/wrench/level_2" },
 		{ "predicate": { "custom_model_data": 1281 }, "model": "inf:tool/bridge_builder/level_2" },
+		{ "predicate": { "custom_model_data": 1282 }, "model": "inf:tool/drill/level_2" },
 		
 		{ "predicate": { "custom_model_data": 1201 }, "model": "inf:item/titanium" },
 		{ "predicate": { "custom_model_data": 1250 }, "model": "inf:machine/conveyor/level_3" },
 		{ "predicate": { "custom_model_data": 1280 }, "model": "inf:tool/wrench/level_3" },
 		{ "predicate": { "custom_model_data": 1281 }, "model": "inf:tool/bridge_builder/level_3" },
+		{ "predicate": { "custom_model_data": 1282 }, "model": "inf:tool/drill/level_3" },
 		
 		
-		{ "predicate": { "custom_model_data": 2001 }, "model": "inf:item/iron" },
+		{ "predicate": { "custom_model_data": 2001 }, "model": "inf:item/steel" },
 		
 		{ "predicate": { "custom_model_data": 2101 }, "model": "inf:item/copper" },
 		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },

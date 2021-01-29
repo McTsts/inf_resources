@@ -1,0 +1,6 @@
+{
+    "parent": "empty",
+	"textures": {
+		"particle": "block/cobblestone"
+	}
+}

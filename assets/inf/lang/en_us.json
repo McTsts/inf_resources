@@ -1,7 +1,7 @@
 {
 	"tier.inf.0": "%s",
 	"tier.inf.1": "Scrap %s",
-	"tier.inf.2": "Steel %s",
+	"tier.inf.2": "Iron %s",
 	"tier.inf.3": "Titanium %s",
 	
 	
@@ -18,9 +18,9 @@
 	"material.inf.form.motor": "%s Motor",
 	
 	"material.inf.scrap": "Scrap",
-	"material.inf.steel": "Steel",
-	"material.inf.titanium": "Titanium",
 	"material.inf.iron": "Iron",
+	"material.inf.titanium": "Titanium",
+	"material.inf.steel": "Steel",
 	"material.inf.copper": "Copper",
 	"material.inf.gold": "Gold",
 	"material.inf.silver": "Silver",
@@ -69,6 +69,11 @@
 	"tool.inf.bridge_builder.desc.2": "the building blocks in",
 	"tool.inf.bridge_builder.desc.3": "your offhand.",
 	"subtitles.tool.bridge_builder.build": "Bridge Building",
+	
+	"tool.inf.drill": "Handheld Drill",
+	"tool.inf.drill.desc.1": "Can be used to manually",
+	"tool.inf.drill.desc.2": "harvest resources from",
+	"tool.inf.drill.desc.3": "asteroids.",
 	
 	
 	"fuel.inf.coal": "Coal",
