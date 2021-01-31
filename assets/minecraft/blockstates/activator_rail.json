@@ -1,40 +1,40 @@
 {
   "variants": {
     "powered=false,shape=ascending_east": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=false,shape=ascending_north": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=false,shape=ascending_south": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=false,shape=ascending_west": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=false,shape=east_west": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=false,shape=north_south": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=true,shape=ascending_east": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=true,shape=ascending_north": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=true,shape=ascending_south": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=true,shape=ascending_west": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=true,shape=east_west": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     },
     "powered=true,shape=north_south": {
-      "model": "inf:misc/drill_target"
+      "model": "empty"
     }
   }
 }

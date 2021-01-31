@@ -1,1 +1,6 @@
-{"elements":[]}
+{
+	"textures": {
+		"particle": "empty"
+	},
+	"elements": []
+}

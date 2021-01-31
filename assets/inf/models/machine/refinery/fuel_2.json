@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/refinery/base",
+	"textures": {
+		"fuel": "inf:machine/generic/fuel_display/2"
+	}
+}

@@ -26,6 +26,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "inf:gui/machine/tool_table.png",
+			"ascent": -4,
+			"height": 54,
+			"chars": ["t"]
+		},
+		{
+			"type": "bitmap",
 			"file": "inf:gui/machine/list.png",
 			"ascent": 10,
 			"height": 79,

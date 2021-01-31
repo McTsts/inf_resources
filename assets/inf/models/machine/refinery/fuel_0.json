@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/refinery/base",
+	"textures": {
+		"inside": "inf:machine/refinery/inside"
+	}
+}

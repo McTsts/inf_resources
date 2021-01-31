@@ -34,6 +34,7 @@
 	"machine.inf.component_table": "Component Table",
 	"machine.inf.machine_maker": "Machine Maker",
 	"machine.inf.wiring_table": "Wiring Table",
+	"machine.inf.tool_table": "Tool Upgrade Station",
 
 	"machine.inf.conveyor": "Conveyor Belt",
 	"machine.inf.filter": "Filter",
@@ -55,6 +56,7 @@
 	"machine.inf.gate.repeat": "REPEAT",
 	"machine.inf.gate.clock": "CLOCK",
 	"machine.inf.gate.delay": "DELAY",
+	"machine.inf.gate.lamp": "Lamp",
 	
 	
 	"tool.inf.category": "Tool",

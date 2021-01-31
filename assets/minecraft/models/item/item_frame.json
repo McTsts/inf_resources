@@ -7,6 +7,7 @@
 		{ "predicate": { "custom_model_data": 1052 }, "model": "inf:machine/filter/gui" },
 		{ "predicate": { "custom_model_data": 1053 }, "model": "inf:machine/elevator/gui" },
 		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" },
+		{ "predicate": { "custom_model_data": 1157 }, "model": "inf:machine/refinery/base" },
 		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },
 		{ "predicate": { "custom_model_data": 2151 }, "model": "inf:machine/gate/delay/gui" },
 		{ "predicate": { "custom_model_data": 2152 }, "model": "inf:machine/gate/repeat/gui" },
@@ -21,6 +22,12 @@
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
+		
+		{ "predicate": { "custom_model_data": 115700 }, "model": "inf:machine/refinery/fuel_0" },
+		{ "predicate": { "custom_model_data": 115701 }, "model": "inf:machine/refinery/fuel_1" },
+		{ "predicate": { "custom_model_data": 115702 }, "model": "inf:machine/refinery/fuel_2" },
+		{ "predicate": { "custom_model_data": 115703 }, "model": "inf:machine/refinery/fuel_3" },
+		{ "predicate": { "custom_model_data": 115704 }, "model": "inf:machine/refinery/fuel_4" },
 		
 		{ "predicate": { "custom_model_data": 215000 }, "model": "inf:machine/gate/1_input_configurable_logic_gate_interface/not_pressed/0" },
 		{ "predicate": { "custom_model_data": 215001 }, "model": "inf:machine/gate/1_input_configurable_logic_gate_interface/not_pressed/1" },
