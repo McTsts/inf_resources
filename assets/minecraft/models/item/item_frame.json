@@ -19,6 +19,7 @@
 		{ "predicate": { "custom_model_data": 2158 }, "model": "inf:machine/panel/transmitter/not_pressed" },
 		{ "predicate": { "custom_model_data": 2159 }, "model": "inf:machine/panel/long_range_transmitter/not_pressed" },
 		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/panel/lever/no_outline/up" },
+		{ "predicate": { "custom_model_data": 2161 }, "model": "inf:machine/gate/lamp" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
@@ -235,13 +236,14 @@
 		
 		{ "predicate": { "custom_model_data": 216000 }, "model": "inf:machine/panel/lever/no_outline/up" },
 		{ "predicate": { "custom_model_data": 216001 }, "model": "inf:machine/panel/lever/no_outline/down" },
+		
 		{ "predicate": { "custom_model_data": 2160000 }, "model": "inf:machine/panel/lever/no_outline/up" },
-		{ "predicate": { "custom_model_data": 2160010 }, "model": "inf:machine/panel/lever/no_outline/down" },
 		{ "predicate": { "custom_model_data": 2160001 }, "model": "inf:machine/panel/lever/outline1/up" },
-		{ "predicate": { "custom_model_data": 2160011 }, "model": "inf:machine/panel/lever/outline1/down" },
 		{ "predicate": { "custom_model_data": 2160002 }, "model": "inf:machine/panel/lever/outline2/up" },
-		{ "predicate": { "custom_model_data": 2160012 }, "model": "inf:machine/panel/lever/outline2/down" },
 		{ "predicate": { "custom_model_data": 2160003 }, "model": "inf:machine/panel/lever/outline3/up" },
+		{ "predicate": { "custom_model_data": 2160010 }, "model": "inf:machine/panel/lever/no_outline/down" },
+		{ "predicate": { "custom_model_data": 2160011 }, "model": "inf:machine/panel/lever/outline1/down" },
+		{ "predicate": { "custom_model_data": 2160012 }, "model": "inf:machine/panel/lever/outline2/down" },
 		{ "predicate": { "custom_model_data": 2160013 }, "model": "inf:machine/panel/lever/outline3/down" }
 	]
 }
