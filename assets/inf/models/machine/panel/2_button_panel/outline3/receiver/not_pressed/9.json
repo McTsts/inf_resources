@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/outline3/receiver/not_pressed",
+	"textures": {
+		"display": "inf:machine/generic/9"
+	}
+}

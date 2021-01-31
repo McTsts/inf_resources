@@ -1,7 +1,0 @@
-{
-	"parent": "inf:machine/panel/receiver/bottom_pressed",
-	"textures": {
-		"type": "inf:machine/panel/long_range_receiver",
-		"display": "inf:machine/generic/c"
-	}
-}

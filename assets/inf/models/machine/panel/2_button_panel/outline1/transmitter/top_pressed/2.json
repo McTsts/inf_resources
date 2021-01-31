@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/outline1/transmitter/top_pressed",
+	"textures": {
+		"display": "inf:machine/generic/2"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/outline1/receiver/not_pressed",
+	"textures": {
+		"type": "inf:machine/panel/long_range_receiver",
+		"display": "inf:machine/generic/b"
+	}
+}

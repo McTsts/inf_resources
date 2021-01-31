@@ -55,8 +55,7 @@
 				"up": {"uv": [1, 6, 3, 8], "rotation": 180, "texture": "#cable"},
 				"down": {"uv": [1, 14, 3, 16], "texture": "#cable"}
 			}
-		}
-	,
+		},
 		{
 			"name": "outline5",
 			"from": [2.95, 11.95, 11.95],
