@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "inf:machine/gate/lamp"
+    },
+    "lit=true": {
+      "model": "inf:machine/gate/lamp/on"
+    }
+  }
+}
