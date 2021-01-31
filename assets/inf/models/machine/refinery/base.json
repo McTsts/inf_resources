@@ -3,7 +3,6 @@
 	"textures": {
 		"base": "inf:machine/refinery/base",
 		"inside": "inf:machine/refinery/inside_lit",
-		"fuel": "inf:machine/generic/fuel_display",
 		"particle": "minecraft:block/cauldron_inner"
 	},
 	"elements": [
@@ -175,17 +174,6 @@
 				"west": {"uv": [8.5, 0, 9, 8], "rotation": 90, "texture": "#base"},
 				"up": {"uv": [4, 0, 6.5, 8], "texture": "#base"},
 				"down": {"uv": [6.5, 0, 9, 8], "texture": "#base"}
-			}
-		},
-		{
-			"from": [9, 10, 1],
-			"to": [13, 16, 3],
-			"faces": {
-				"north": {"uv": [1, 2, 5, 8], "texture": "#fuel"},
-				"east": {"uv": [5, 2, 7, 8], "texture": "#fuel"},
-				"west": {"uv": [11, 2, 13, 8], "texture": "#fuel"},
-				"up": {"uv": [1, 0, 5, 2], "texture": "#fuel"},
-				"down": {"uv": [1, 8, 5, 10], "texture": "#fuel"}
 			}
 		},
 		{

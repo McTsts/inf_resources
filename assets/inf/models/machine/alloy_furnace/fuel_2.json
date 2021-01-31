@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/alloy_furnace/base",
+	"textures": {
+		"fuel": "inf:machine/generic/fuel_display/2"
+	}
+}

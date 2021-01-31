@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/alloy_furnace/base",
+	"textures": {
+		"inside": "inf:machine/refinery/inside"
+	}
+}
