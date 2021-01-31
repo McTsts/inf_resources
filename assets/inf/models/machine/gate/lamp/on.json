@@ -1,0 +1,7 @@
+{
+	"parent": "inf:machine/gate/lamp",
+	"textures": {
+		"side": "inf:machine/gate/lamp/side_on",
+		"top": "inf:machine/gate/lamp/top_on"
+	}
+}
