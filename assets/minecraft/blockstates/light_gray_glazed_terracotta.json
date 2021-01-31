@@ -1,19 +1,16 @@
 {
   "variants": {
     "facing=east": {
-      "model": "inf:machine/gate/no_input_logic_gate",
-      "y": 90
+      "model": "inf:machine/gate/no_input_logic_gate"
     },
     "facing=north": {
       "model": "inf:machine/gate/no_input_logic_gate"
     },
     "facing=south": {
-      "model": "inf:machine/gate/no_input_logic_gate",
-      "y": 180
+      "model": "inf:machine/gate/no_input_logic_gate"
     },
     "facing=west": {
-      "model": "inf:machine/gate/no_input_logic_gate",
-      "y": 270
+      "model": "inf:machine/gate/no_input_logic_gate"
     }
   }
 }
