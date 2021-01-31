@@ -33,10 +33,24 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "inf:gui/machine/alloy_furnace.png",
+			"ascent": -4,
+			"height": 54,
+			"chars": ["a"]
+		},
+		{
+			"type": "bitmap",
 			"file": "inf:gui/machine/list.png",
 			"ascent": 10,
 			"height": 79,
 			"chars": ["l"]
+		},
+		{
+			"type": "bitmap",
+			"file": "inf:gui/machine/two_slot_list.png",
+			"ascent": 10,
+			"height": 79,
+			"chars": ["2"]
 		}
 	]
 }

@@ -1,0 +1,12 @@
+{
+	"parent": "inf:machine/gate/no_input_logic_gate",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },
+		{ "predicate": { "custom_model_data": 2151 }, "model": "inf:machine/gate/delay/gui" },
+		{ "predicate": { "custom_model_data": 2152 }, "model": "inf:machine/gate/repeat/gui" },
+		{ "predicate": { "custom_model_data": 2153 }, "model": "inf:machine/gate/and" },
+		{ "predicate": { "custom_model_data": 2154 }, "model": "inf:machine/gate/not" },
+		{ "predicate": { "custom_model_data": 2155 }, "model": "inf:machine/gate/toggle" },
+		{ "predicate": { "custom_model_data": 2156 }, "model": "inf:machine/gate/or" }
+	]
+}

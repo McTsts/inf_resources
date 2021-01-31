@@ -42,6 +42,7 @@
 		{ "predicate": { "custom_model_data": 2158 }, "model": "inf:machine/panel/transmitter/not_pressed" },
 		{ "predicate": { "custom_model_data": 2159 }, "model": "inf:machine/panel/long_range_transmitter/not_pressed" },
 		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/panel/lever_up" },		
+		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/gate/lamp" },	
 		
 		{ "predicate": { "custom_model_data": 2201 }, "model": "inf:item/gold" },
 		{ "predicate": { "custom_model_data": 2301 }, "model": "inf:item/silver" },
