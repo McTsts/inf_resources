@@ -1,9 +1,11 @@
 {
 	"tier.inf.0": "%s",
-	"tier.inf.1": "Scrap %s",
-	"tier.inf.2": "Iron %s",
-	"tier.inf.3": "Titanium %s",
+	"tier.inf.1": "Tier 1 %s",
+	"tier.inf.2": "Tier 2 %s",
+	"tier.inf.3": "Tier 3 %s",
 	
+	
+	"material.inf.form.category": "Component",
 	
 	"material.inf.form.nul": "%s",
 	"material.inf.form.ore": "%s Ore",
@@ -27,6 +29,7 @@
 	"material.inf.bamboo": "Bamboo",
 	"material.inf.stone": "Stone",
 	"material.inf.redstone": "Redstone",
+	"material.inf.bluestone": "Bluestone",
 	
 	
 	"machine.inf.category": "Machine",
@@ -36,43 +39,109 @@
 	"machine.inf.wiring_table": "Wiring Table",
 	"machine.inf.tool_table": "Tool Upgrade Station",
 
-	"machine.inf.conveyor": "Conveyor Belt",
-	"machine.inf.filter": "Filter",
-	"subtitles.machine.filter.filter":"Filter Filters",
-	"machine.inf.elevator": "Elevator",
+	"machine.inf.conveyor": "$s Conveyor Belt",
+	"machine.inf.conveyor.desc.1": "A machine that moves",
+	"machine.inf.conveyor.desc.2": "items from one place",
+	"machine.inf.conveyor.desc.3": "to another",
 	
-	"machine.inf.drill": "Drill",
+	"machine.inf.filter": "Filter",
+	"machine.inf.filter.desc.1": "A type of conveyor",
+	"machine.inf.filter.desc.2": "belt that can filter",
+	"machine.inf.filter.desc.3": "specified items.",
+	"subtitles.machine.filter.filter":"Filter Filters",
+	
+	"machine.inf.elevator": "Elevator",
+	"machine.inf.elevator.desc.1": "A type of conveyor",
+	"machine.inf.elevator.desc.2": "belt that can move",
+	"machine.inf.elevator.desc.3": "items vertically.",
+	
+	"machine.inf.drill": "$s Drill",
+	"machine.inf.drill.desc.": "Place on an asteroid and",
+	"machine.inf.drill.desc.": "provide fuel to automatically",
+	"machine.inf.drill.desc.": "harvest resources.",
+	
+	
+	"machine.inf.panel.category": "???",
 	
 	"machine.inf.panel.receiver": "Receiver",
+	"machine.inf.panel.receiver.desc.1": "A device that receives a",
+	"machine.inf.panel.receiver.desc.2": "specified signal, can receive",
+	"machine.inf.panel.receiver.desc.3": "short and long range signals.",
+	
 	"machine.inf.panel.transmitter": "Transmitter",
+	"machine.inf.panel.transmitter.desc.1": "A device that can transmit",
+	"machine.inf.panel.transmitter.desc.2": "a specified signal over a",
+	"machine.inf.panel.transmitter.desc.3": "short range.",
+	
 	"machine.inf.panel.long_range_transmitter": "Long Range Transmitter",
+	"machine.inf.panel.long_range_transmitter.desc.1": "A device that can transmit",
+	"machine.inf.panel.long_range_transmitter.desc.2": "a specified signal over an",
+	"machine.inf.panel.long_range_transmitter.desc.3": "infinite range.",
+	
 	"machine.inf.panel.lever": "Lever",
+	"machine.inf.panel.lever.desc.1": "A device that can be used to",
+	"machine.inf.panel.lever.desc.2": "manually enable and disable",
+	"machine.inf.panel.lever.desc.3": "a signal.",
+	
 	
 	"machine.inf.gate": "%s Gate",
+	"machine.inf.gate.logic_gate.category": "Logic Gate",
+	
 	"machine.inf.gate.not": "NOT",
+	"machine.inf.gate.not.desc.1": "A logic gate that",
+	"machine.inf.gate.not.desc.2": "inverts the incoming",
+	"machine.inf.gate.not.desc.3": "signal.",
+	
 	"machine.inf.gate.and": "AND",
+	"machine.inf.gate.and.desc.1": "A logic gate that sends a",
+	"machine.inf.gate.and.desc.2": "signal if both of its inputs",
+	"machine.inf.gate.and.desc.3": "are receiving a signal",
+	
 	"machine.inf.gate.or": "OR",
+	"machine.inf.gate.or.desc.1": "A logic gate that sends a",
+	"machine.inf.gate.or.desc.2": "signal if either of its inputs",
+	"machine.inf.gate.or.desc.3": "are receiving a signal",
+	
 	"machine.inf.gate.toggle": "TOGGLE",
+	"machine.inf.gate.toggle.desc.1": "A device that inverts",
+	"machine.inf.gate.toggle.desc.2": "it's state when it",
+	"machine.inf.gate.toggle.desc.3": "receives a signal.",
+	
 	"machine.inf.gate.repeat": "REPEAT",
+	"machine.inf.gate.repeat.desc.1": "A configurable device that",
+	"machine.inf.gate.repeat.desc.2": "repeats a signal the specified",
+	"machine.inf.gate.repeat.desc.3": "amount of times.",
+	
 	"machine.inf.gate.clock": "CLOCK",
+	"machine.inf.gate.clock.desc.1": "A configurable device that,",
+	"machine.inf.gate.clock.desc.2": "while powered, sends out signals",
+	"machine.inf.gate.clock.desc.3": "continuously in specified intervals.",
+	
 	"machine.inf.gate.delay": "DELAY",
+	"machine.inf.gate.delay.desc.1": "A configurable device that",
+	"machine.inf.gate.delay.desc.2": "sends out the received signal",
+	"machine.inf.gate.delay.desc.3": "after the specified amount of time.",
+	
 	"machine.inf.gate.lamp": "Lamp",
+	"machine.inf.gate.lamp.desc.1": "A device that lights up if",
+	"machine.inf.gate.lamp.desc.2": "it is currently receiving",
+	"machine.inf.gate.lamp.desc.3": "a signal.",
 	
 	
 	"tool.inf.category": "Tool",
 	
-	"tool.inf.wrench": "Wrench",
+	"tool.inf.wrench": "%s Wrench",
 	"tool.inf.wrench.desc.1": "Allows you to break",
 	"tool.inf.wrench.desc.2": "machines and building",
 	"tool.inf.wrench.desc.3": "blocks you've placed.",
 	
-	"tool.inf.bridge_builder": "Bridge Builder",
+	"tool.inf.bridge_builder": "%s Bridge Builder",
 	"tool.inf.bridge_builder.desc.1": "Builds a bridge using",
 	"tool.inf.bridge_builder.desc.2": "the building blocks in",
 	"tool.inf.bridge_builder.desc.3": "your offhand.",
 	"subtitles.tool.bridge_builder.build": "Bridge Building",
 	
-	"tool.inf.drill": "Handheld Drill",
+	"tool.inf.drill": "%s Handheld Drill",
 	"tool.inf.drill.desc.1": "Can be used to manually",
 	"tool.inf.drill.desc.2": "harvest resources from",
 	"tool.inf.drill.desc.3": "asteroids.",

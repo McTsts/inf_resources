@@ -4,7 +4,8 @@
 		"display": "empty",
 		"board": "inf:machine/panel/board",
 		"cable": "inf:machine/panel/cable",
-		"type": "inf:machine/panel/transmitter"
+		"type": "inf:machine/panel/transmitter",
+		"outline": "color/black"
 	},
 	"display": {
 		"thirdperson_righthand": {

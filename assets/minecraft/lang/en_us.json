@@ -1,19 +1,4 @@
 {
 	"container.crafting": "§f\uE000",
-	"gui.recipebook.search_hint": "",
-	
-	"container.dropper": "Filter",
-	"block.minecraft.white_glazed_terracotta": "§eScrap Conveyor Belt",
-	"block.minecraft.orange_glazed_terracotta": "§eSteel Conveyor Belt",
-	"block.minecraft.magenta_glazed_terracotta": "§eTitanium Conveyor Belt",
-	
-	"block.minecraft.white_stained_glass": "§eScrap Drill",
-	
-	"block.minecraft.cyan_glazed_terracotta": 		"§eCLOCK Gate",
-	"block.minecraft.purple_glazed_terracotta": 	"§eDELAY Gate",
-	"block.minecraft.blue_glazed_terracotta": 		"§eREPEAT Gate",
-	"block.minecraft.brown_glazed_terracotta": 		"§eAND Gate",
-	"block.minecraft.green_glazed_terracotta": 		"§eNOT Gate",
-	"block.minecraft.red_glazed_terracotta": 		"§eTOGGLE Gate",
-	"block.minecraft.black_glazed_terracotta": 		"§eOR Gate"
+	"gui.recipebook.search_hint": ""
 }

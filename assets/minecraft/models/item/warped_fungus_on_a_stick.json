@@ -34,10 +34,10 @@
 		{ "predicate": { "custom_model_data": 2154, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/not" },
 		{ "predicate": { "custom_model_data": 2155, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/toggle" },
 		{ "predicate": { "custom_model_data": 2156, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/gate/or" },
-		{ "predicate": { "custom_model_data": 2157, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/receiver/not_pressed" },
-		{ "predicate": { "custom_model_data": 2158, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/transmitter/not_pressed" },
-		{ "predicate": { "custom_model_data": 2159, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/long_range_transmitter/not_pressed" },
-		{ "predicate": { "custom_model_data": 2160, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/lever_up" },
+		{ "predicate": { "custom_model_data": 2157, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/gui/receiver" },
+		{ "predicate": { "custom_model_data": 2158, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/gui/transmitter" },
+		{ "predicate": { "custom_model_data": 2159, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/gui/long_range_transmitter" },
+		{ "predicate": { "custom_model_data": 2160, "damaged": 0, "damage": 0.01 }, "model": "inf:machine/panel/gui/lever" },
 		
 		{ "predicate": { "custom_model_data": 9999, "damaged": 0, "damage": 0.01 }, "model": "empty" },
 		
