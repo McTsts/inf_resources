@@ -39,7 +39,7 @@
 	"machine.inf.wiring_table": "Wiring Table",
 	"machine.inf.tool_table": "Tool Upgrade Station",
 
-	"machine.inf.conveyor": "$s Conveyor Belt",
+	"machine.inf.conveyor": "%s Conveyor Belt",
 	"machine.inf.conveyor.desc.1": "A machine that moves",
 	"machine.inf.conveyor.desc.2": "items from one place",
 	"machine.inf.conveyor.desc.3": "to another",
