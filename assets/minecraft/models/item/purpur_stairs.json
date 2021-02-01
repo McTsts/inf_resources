@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/purpur_stairs",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1052 }, "model": "inf:machine/filter/gui" }
+	]
+}

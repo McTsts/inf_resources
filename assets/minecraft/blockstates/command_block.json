@@ -5,11 +5,11 @@
 			"x": 90
 		},
 		"conditional=false,facing=east": {
-			"model": "minecraft:block/command_block",
+			"model": "inf:machine/filter/no_anim",
 			"y": 90
 		},
 		"conditional=false,facing=north": {
-			"model": "minecraft:block/command_block"
+			"model": "inf:machine/filter/no_anim"
 		},
 		"conditional=false,facing=south": {
 			"model": "minecraft:block/command_block",

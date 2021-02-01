@@ -55,10 +55,10 @@
 	"machine.inf.elevator.desc.2": "belt that can move",
 	"machine.inf.elevator.desc.3": "items vertically.",
 	
-	"machine.inf.drill": "$s Drill",
-	"machine.inf.drill.desc.": "Place on an asteroid and",
-	"machine.inf.drill.desc.": "provide fuel to automatically",
-	"machine.inf.drill.desc.": "harvest resources.",
+	"machine.inf.drill": "%s Drill",
+	"machine.inf.drill.desc.1": "Place on an asteroid and",
+	"machine.inf.drill.desc.2": "provide fuel to automatically",
+	"machine.inf.drill.desc.3": "harvest resources.",
 	
 	
 	"machine.inf.panel.category": "???",

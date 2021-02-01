@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/filter/base",
+	"textures": {
+		"belt": "inf:machine/filter/belt_still"
+	}
+}
