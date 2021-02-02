@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/redstone"
+	},
+	"overrides": [	
+		{ "predicate": { "custom_model_data": 215401 }, "model": "inf:machine/gate/powered_display/not/power" }
+	]
+}
