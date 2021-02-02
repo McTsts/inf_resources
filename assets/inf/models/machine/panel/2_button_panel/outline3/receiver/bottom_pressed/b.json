@@ -1,7 +1,7 @@
 {
 	"parent": "inf:machine/panel/2_button_panel/outline3/receiver/bottom_pressed",
 	"textures": {
-		"type": "inf:machine/panel/long_range_receiver",
+		"type": "inf:machine/panel/long_range_receiver/off",
 		"display": "inf:machine/generic/b"
 	}
 }

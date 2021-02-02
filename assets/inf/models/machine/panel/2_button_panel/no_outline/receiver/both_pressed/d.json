@@ -1,7 +1,7 @@
 {
 	"parent": "inf:machine/panel/2_button_panel/no_outline/receiver/both_pressed",
 	"textures": {
-		"type": "inf:machine/panel/long_range_receiver",
+		"type": "inf:machine/panel/long_range_receiver/off",
 		"display": "inf:machine/generic/d"
 	}
 }

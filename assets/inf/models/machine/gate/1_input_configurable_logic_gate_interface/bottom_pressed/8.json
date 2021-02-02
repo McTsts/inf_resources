@@ -1,6 +1,0 @@
-{
-	"parent": "inf:machine/gate/1_input_configurable_logic_gate_interface/bottom_pressed",
-	"textures": {
-		"display": "inf:machine/generic/8"
-	}
-}
