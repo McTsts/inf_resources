@@ -7,6 +7,7 @@
 		{ "predicate": { "custom_model_data": 1052 }, "model": "inf:machine/filter/gui" },
 		{ "predicate": { "custom_model_data": 1053 }, "model": "inf:machine/elevator/gui" },
 		{ "predicate": { "custom_model_data": 1058 }, "model": "inf:machine/refinery/base" },
+		{ "predicate": { "custom_model_data": 1059 }, "model": "inf:machine/crusher/base" },
 		{ "predicate": { "custom_model_data": 1060 }, "model": "inf:machine/alloy_furnace/base" },
 		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" },
 		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },
