@@ -5,16 +5,16 @@
 	},
 	"overrides": [	
 		{ "predicate": { "custom_model_data": 215300 }, "model": "empty" },
-		{ "predicate": { "custom_model_data": 215301 }, "model": "inf:machine/gate/powered_display/and/partial_power_left" },
-		{ "predicate": { "custom_model_data": 215302 }, "model": "inf:machine/gate/powered_display/and/partial_power_right" },
+		{ "predicate": { "custom_model_data": 215301 }, "model": "inf:machine/gate/powered_display/and/partial_power_right" },
+		{ "predicate": { "custom_model_data": 215302 }, "model": "inf:machine/gate/powered_display/and/partial_power_left" },
 		{ "predicate": { "custom_model_data": 215303 }, "model": "inf:machine/gate/powered_display/and/power" },
 		
 		{ "predicate": { "custom_model_data": 215400 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215401 }, "model": "inf:machine/gate/powered_display/not/power" },
 		
 		{ "predicate": { "custom_model_data": 215600 }, "model": "empty" },
-		{ "predicate": { "custom_model_data": 215601 }, "model": "inf:machine/gate/powered_display/or/partial_power_left" },
-		{ "predicate": { "custom_model_data": 215602 }, "model": "inf:machine/gate/powered_display/or/partial_power_right" },
+		{ "predicate": { "custom_model_data": 215601 }, "model": "inf:machine/gate/powered_display/or/partial_power_right" },
+		{ "predicate": { "custom_model_data": 215602 }, "model": "inf:machine/gate/powered_display/or/partial_power_left" },
 		{ "predicate": { "custom_model_data": 215603 }, "model": "inf:machine/gate/powered_display/or/power" }
 	]
 }
