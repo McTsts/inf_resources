@@ -66,7 +66,7 @@
 			{ "name": "mob/irongolem/walk3", "pitch": 1.95 },
 			{ "name": "mob/irongolem/walk4", "pitch": 1.95 }
 		],
-    "subtitle": "subtitles.tool.bridge_builder.build"
+		"subtitle": "subtitles.tool.bridge_builder.build"
 	},
 	"tool.bridge_builder.place": {
 		"sounds": [	
@@ -75,5 +75,41 @@
 			"dig/stone3",
 			"dig/stone4"
 		]
+	},
+	"machine.panel.transmitter.on": {
+		"sounds": [
+			"random/fizz"
+		],
+		"subtitle": "subtitles.machine.panel.transmitter.on"
+	},
+	"machine.panel.transmitter.off": {
+		"sounds": [
+			"random/fizz"
+		],
+		"subtitle": "subtitles.machine.panel.transmitter.off"
+	},
+	"machine.panel.long_range_transmitter.on": {
+		"sounds": [
+			"random/fizz"
+		],
+		"subtitle": "subtitles.machine.panel.long_range_transmitter.on"
+	},
+	"machine.panel.long_range_transmitter.off": {
+		"sounds": [
+			"random/fizz"
+		],
+		"subtitle": "subtitles.machine.panel.long_range_transmitter.off"
+	},
+	"machine.panel.receiver.on": {
+		"sounds": [
+			"random/click"
+		],
+		"subtitle": "subtitles.machine.panel.receiver.on"
+	},
+	"machine.panel.receiver.off": {
+		"sounds": [
+			"random/click"
+		],
+		"subtitle": "subtitles.machine.panel.receiver.off"
 	}
 }

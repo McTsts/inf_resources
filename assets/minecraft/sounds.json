@@ -29,53 +29,53 @@
 	},
 	"item.armor.equip_generic": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"entity.item_frame.add_item": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"entity.item_frame.break": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"entity.item_frame.place": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"entity.item_frame.remove_item": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"entity.item_frame.rotate_item": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"block.iron_trapdoor.close": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"block.iron_trapdoor.open": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"block.barrel.close": {
 		"sounds": ["block/shulker_box/close"],
 		"subtitle": "subtitles.block.crate.close",
-		"replace": "true"
+		"replace": true
 	},
 	"block.barrel.open": {
 		"sounds": ["block/shulker_box/open"],
 		"subtitle": "subtitles.block.crate.open",
-		"replace": "true"
+		"replace": true
 	},
 	"block.chest.close": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"block.chest.open": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	},
 	"block.glass.break": {
 		"sounds": [
@@ -85,10 +85,10 @@
 			"dig/stone4"
 		],
 		"subtitle": "subtitles.block.generic.break",
-		"replace": "true"
+		"replace": true
 	},
 	"block.metal.break": {
 		"sounds": [],
-		"replace": "true"
+		"replace": true
 	}
 }

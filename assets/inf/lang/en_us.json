@@ -66,17 +66,24 @@
 	"machine.inf.panel.receiver": "Receiver",
 	"machine.inf.panel.receiver.desc.1": "A device that receives a",
 	"machine.inf.panel.receiver.desc.2": "specified signal, can receive",
-	"machine.inf.panel.receiver.desc.3": "short and long range signals.",
+	"machine.inf.panel.receiver.desc.3": "short and long range signals.",,
+	"subtitles.machine.panel.receiver.on": "Receiver Receives",
+	"subtitles.machine.panel.receiver.off": "Receiver Receives",
+	
 	
 	"machine.inf.panel.transmitter": "Transmitter",
 	"machine.inf.panel.transmitter.desc.1": "A device that can transmit",
 	"machine.inf.panel.transmitter.desc.2": "a specified signal over a",
 	"machine.inf.panel.transmitter.desc.3": "short range.",
+	"subtitles.machine.panel.transmitter.on": "Transmitter Transmits",
+	"subtitles.machine.panel.transmitter.off": "Transmitter Transmits",
 	
 	"machine.inf.panel.long_range_transmitter": "Long Range Transmitter",
 	"machine.inf.panel.long_range_transmitter.desc.1": "A device that can transmit",
 	"machine.inf.panel.long_range_transmitter.desc.2": "a specified signal over an",
-	"machine.inf.panel.long_range_transmitter.desc.3": "infinite range.",
+	"machine.inf.panel.long_range_transmitter.desc.3": "infinite range.",,
+	"subtitles.machine.panel.long_range_transmitter.on": "Transmitter Transmits",
+	"subtitles.machine.panel.long_range_transmitter.off": "Transmitter Transmits",
 	
 	"machine.inf.panel.lever": "Lever",
 	"machine.inf.panel.lever.desc.1": "A device that can be used to",

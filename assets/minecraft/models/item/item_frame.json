@@ -22,6 +22,7 @@
 		{ "predicate": { "custom_model_data": 2159 }, "model": "inf:machine/panel/gui/long_range_transmitter" },
 		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/panel/gui/lever" },
 		{ "predicate": { "custom_model_data": 2161 }, "model": "inf:machine/gate/lamp" },
+		{ "predicate": { "custom_model_data": 2161 }, "model": "inf:machine/gate/count/gui" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
