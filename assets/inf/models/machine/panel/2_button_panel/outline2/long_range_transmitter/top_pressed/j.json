@@ -1,6 +1,0 @@
-{
-	"parent": "inf:machine/panel/2_button_panel/outline2/long_range_transmitter/top_pressed",
-	"textures": {
-		"display": "inf:machine/generic/j"
-	}
-}

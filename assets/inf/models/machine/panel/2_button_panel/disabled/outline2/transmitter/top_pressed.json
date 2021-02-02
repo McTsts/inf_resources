@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/disabled/outline2/top_pressed",
+	"textures": {
+		"type": "inf:machine/panel/transmitter/off"
+	}
+}

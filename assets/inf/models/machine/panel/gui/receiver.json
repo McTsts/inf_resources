@@ -1,5 +1,5 @@
 {
-	"parent": "inf:machine/panel/2_button_panel/no_outline/receiver/not_pressed",
+	"parent": "inf:machine/panel/2_button_panel/disabled/no_outline/receiver/not_pressed",
 	"display": {
 		"ground": {
 			"translation": [0, 3, 0],

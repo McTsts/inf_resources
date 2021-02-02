@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/disabled/outline1/transmitter/not_pressed",
+	"textures": {
+		"display": "inf:machine/generic/9"
+	}
+}

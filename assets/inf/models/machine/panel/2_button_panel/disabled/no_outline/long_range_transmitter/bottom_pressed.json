@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/disabled/no_outline/bottom_pressed",
+	"textures": {
+		"type": "inf:machine/panel/long_range_transmitter/off"
+	}
+}

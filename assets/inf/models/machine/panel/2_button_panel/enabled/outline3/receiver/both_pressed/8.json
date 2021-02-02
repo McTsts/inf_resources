@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/panel/2_button_panel/enabled/outline3/receiver/both_pressed",
+	"textures": {
+		"display": "inf:machine/generic/8"
+	}
+}

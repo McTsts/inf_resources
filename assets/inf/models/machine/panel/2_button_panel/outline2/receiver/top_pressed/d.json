@@ -1,7 +1,0 @@
-{
-	"parent": "inf:machine/panel/2_button_panel/outline2/receiver/top_pressed",
-	"textures": {
-		"type": "inf:machine/panel/long_range_receiver/off",
-		"display": "inf:machine/generic/d"
-	}
-}
