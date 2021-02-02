@@ -1,6 +1,6 @@
 {
 	"parent": "inf:machine/gate/powered_display",
 	"textures": {
-		"face": "inf:machine/gate/not/partial_power_right"
+		"face": "inf:machine/gate/or/partial_power_right"
 	}
 }
