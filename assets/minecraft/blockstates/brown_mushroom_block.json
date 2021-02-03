@@ -1,0 +1,62 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "inf:machine/gate/junction"
+			}
+		},
+		{
+			"when": {
+				"north": "true"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/wire"
+			}
+		},
+		{
+			"when": {
+				"east": "true"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/wire",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"south": "true"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/wire",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"west": "true"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/wire",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"up": "true"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/wire",
+				"x": 270
+			}
+		},
+		{
+			"when": {
+				"down": "true"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/wire",
+				"x": 90
+			}
+		}
+	]
+}
