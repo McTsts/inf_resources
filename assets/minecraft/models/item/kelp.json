@@ -5,18 +5,48 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1101 }, "model": "inf:item/scrap" },
+		{ "predicate": { "custom_model_data": 1103 }, "model": "inf:item/scrap_beam" },
+		{ "predicate": { "custom_model_data": 1104 }, "model": "inf:item/scrap_plate" },
+		{ "predicate": { "custom_model_data": 1106 }, "model": "inf:item/scrap_dust" },
+		{ "predicate": { "custom_model_data": 1130 }, "model": "inf:item/scrap_motor" },
+		{ "predicate": { "custom_model_data": 1131 }, "model": "inf:item/scrap_drill" },
 		
+		{ "predicate": { "custom_model_data": 1200 }, "model": "inf:item/iron_ore" },
 		{ "predicate": { "custom_model_data": 1201 }, "model": "inf:item/iron" },
+		{ "predicate": { "custom_model_data": 1203 }, "model": "inf:item/iron_beam" },
+		{ "predicate": { "custom_model_data": 1204 }, "model": "inf:item/iron_plate" },
+		{ "predicate": { "custom_model_data": 1206 }, "model": "inf:item/iron_dust" },
+		{ "predicate": { "custom_model_data": 1230 }, "model": "inf:item/iron_motor" },
+		{ "predicate": { "custom_model_data": 1231 }, "model": "inf:item/iron_drill" },
 		
+		{ "predicate": { "custom_model_data": 1300 }, "model": "inf:item/titanium_ore" },
 		{ "predicate": { "custom_model_data": 1301 }, "model": "inf:item/titanium" },
+		{ "predicate": { "custom_model_data": 1303 }, "model": "inf:item/titanium_beam" },
+		{ "predicate": { "custom_model_data": 1304 }, "model": "inf:item/titanium_plate" },
+		{ "predicate": { "custom_model_data": 1306 }, "model": "inf:item/titanium_dust" },
+		{ "predicate": { "custom_model_data": 1330 }, "model": "inf:item/titanium_motor" },
+		{ "predicate": { "custom_model_data": 1331 }, "model": "inf:item/titanium_drill" },
 		
 		{ "predicate": { "custom_model_data": 2001 }, "model": "inf:item/steel" },
+		{ "predicate": { "custom_model_data": 2003 }, "model": "inf:item/steel_beam" },
+		{ "predicate": { "custom_model_data": 2004 }, "model": "inf:item/steel_plate" },
+		{ "predicate": { "custom_model_data": 2006 }, "model": "inf:item/steel_dust" },
+		
+		{ "predicate": { "custom_model_data": 2100 }, "model": "inf:item/copper_ore" },
 		{ "predicate": { "custom_model_data": 2101 }, "model": "inf:item/copper" },
-		{ "predicate": { "custom_model_data": 2201 }, "model": "inf:item/gold" },
-		{ "predicate": { "custom_model_data": 2301 }, "model": "inf:item/silver" },
+		{ "predicate": { "custom_model_data": 2103 }, "model": "inf:item/copper_beam" },
+		{ "predicate": { "custom_model_data": 2104 }, "model": "inf:item/copper_plate" },
+		{ "predicate": { "custom_model_data": 2106 }, "model": "inf:item/copper_dust" },
 		
-		{ "predicate": { "custom_model_data": 3201 }, "model": "inf:item/redstone" },
+		{ "predicate": { "custom_model_data": 3100 }, "model": "inf:item/rock" },
 		
-		{ "predicate": { "custom_model_data": 9701 }, "model": "inf:item/coal" }
+		{ "predicate": { "custom_model_data": 3204 }, "model": "inf:item/redstone_plate" },
+		{ "predicate": { "custom_model_data": 3206 }, "model": "inf:item/redstone_dust" },
+		
+		{ "predicate": { "custom_model_data": 3304 }, "model": "inf:item/bluestone_plate" },
+		{ "predicate": { "custom_model_data": 3306 }, "model": "inf:item/bluestone_dust" },
+		
+		{ "predicate": { "custom_model_data": 6000 }, "model": "inf:item/coal" },
+		{ "predicate": { "custom_model_data": 6006 }, "model": "inf:item/coal_dust" }
 	]
 }

@@ -1,45 +1,170 @@
 {
-	"tier.inf.0": "%s",
-	"tier.inf.1": "Tier 1 %s",
-	"tier.inf.2": "Tier 2 %s",
-	"tier.inf.3": "Tier 3 %s",
+	"tier.inf.0": "",
+	"tier.inf.1": "Tier 1",
+	"tier.inf.2": "Tier 2",
+	"tier.inf.3": "Tier 3",
+	"tier.inf.4": "Tier 4",
+	"tier.inf.5": "Tier 5",
+	"tier.inf.6": "Tier 6",
 	
 	
 	"material.inf.form.category": "Component",
+	"material.inf.form.category.tier.0": "Component",
+	"material.inf.form.category.tier.1": "Tier 1 Component",
+	"material.inf.form.category.tier.2": "Tier 2 Component",
+	"material.inf.form.category.tier.3": "Tier 3 Component",
+	"material.inf.form.category.tier.4": "Tier 4 Component",
+	"material.inf.form.category.tier.5": "Tier 5 Component",
+	"material.inf.form.category.tier.6": "Tier 6 Component",
 	
-	"material.inf.form.nul": "%s",
-	"material.inf.form.ore": "%s Ore",
-	"material.inf.form.ingot": "%s Ingot",
-	"material.inf.form.bar": "%s Bar",
-	"material.inf.form.block": "%s Block",
-	"material.inf.form.beam": "%s Beam",
-	"material.inf.form.plate": "%s Plate",
+	"material.inf.form.ore": "Ore",
+	"material.inf.iron.ore": "Iron Ore",
+	"material.inf.titanium.ore": "Titanium Ore",
+	"material.inf.copper.ore": "Copper Ore",
+	
+	"material.inf.form.ore.desc.1": "Can be put in a",
+	"material.inf.form.ore.desc.2": "refinery to be turned",
+	"material.inf.form.ore.desc.3": "into a usable component.",
+	
+	"material.inf.rock": "Rock",
+	"material.inf.rock.desc.1": "This chunk of",
+	"material.inf.rock.desc.2": "stone probably",
+	"material.inf.rock.desc.3": "isn't usable.",
+	
+	
+	"material.inf.form.ingot": "Ingot",
+	"material.inf.scrap.ingot": "Scrap",
+	"material.inf.iron.ingot": "Iron Ingot",
+	"material.inf.titanium.ingot": "Titanium Ingot",
+	"material.inf.steel.ingot": "Steel Ingot",
+	"material.inf.copper.ingot": "Copper Ingot",
+	
+	"material.inf.form.ingot.desc.1": "Can be used to create",
+	"material.inf.form.ingot.desc.2": "machines and components",
+	"material.inf.form.ingot.desc.3": "in crafting stations.",
+	
+	
+	"material.inf.form.block": "Block",
+	
+	
+	"material.inf.form.beam": "Beam",
+	"material.inf.iron.beam": "Iron Beam",
+	"material.inf.steel.beam": "Steel Beam",
+	
+	"material.inf.form.beam.desc.1": "A structural",
+	"material.inf.form.beam.desc.2": "component used",
+	"material.inf.form.beam.desc.3": "for machines.",
+	
+	
+	"material.inf.form.plate": "Plate",
+	"material.inf.scrap.plate": "Scrap Plate",
+	"material.inf.iron.plate": "Iron Plate",
+	"material.inf.titanium.plate": "Titanium Plate",
+	"material.inf.steel.plate": "Steel Plate",
+	"material.inf.copper.plate": "Copper Plate",
+	"material.inf.redstone.plate": "Redstone Plate",
+	"material.inf.bluestone.plate": "Bluestone Plate",
+	
+	"material.inf.form.plate.metal.desc.1": "A sturdy sheet of",
+	"material.inf.form.plate.metal.desc.2": "material that can",
+	"material.inf.form.plate.metal.desc.3": "be used for crafting.",
+	
+	"material.inf.form.plate.tech.desc.1": "A sheet of material",
+	"material.inf.form.plate.tech.desc.2": "that can be used to",
+	"material.inf.form.plate.tech.desc.3": "display something.",
+	
+	
 	"material.inf.form.wheel": "%s Wheel",
-	"material.inf.form.shaft": "%s Shaft",
-	"material.inf.form.wire": "%s Wire",
-	"material.inf.form.motor": "%s Motor",
+	
+	
+	"material.inf.form.dust": "Dust",
+	"material.inf.scrap.dust": "Scrap Dust",
+	"material.inf.iron.dust": "Iron Dust",
+	"material.inf.titanium.dust": "Titanium Dust",
+	"material.inf.steel.dust": "Steel Dust",
+	"material.inf.copper.dust": "Copper Dust",
+	"material.inf.redstone.dust": "Redstone Dust",
+	"material.inf.bluestone.dust": "Bluestone Dust",
+	"material.inf.coal.dust": "Coal Dust",
+	
+	"material.inf.form.dust.craft.desc.1": "A fine powder that can",
+	"material.inf.form.dust.craft.desc.2": "be used as a crafting",
+	"material.inf.form.dust.craft.desc.3": "component.",
+	
+	"material.inf.form.dust.alloy.desc.1": "A fine powder that can",
+	"material.inf.form.dust.alloy.desc.2": "be used to create alloys",
+	"material.inf.form.dust.alloy.desc.3": "in the alloy smelter.",
+	
+	"material.inf.form.dust.raw.desc.1": "A fine powder that can be",
+	"material.inf.form.dust.raw.desc.2": "put into a refinery to",
+	"material.inf.form.dust.raw.desc.3": "create a usable component.",
+	
+	"material.inf.form.dust.useless.desc.1": "A fine powder that",
+	"material.inf.form.dust.useless.desc.2": "probably can't be",
+	"material.inf.form.dust.useless.desc.3": "used for anything.",
+	
+	
+	"material.inf.form.motor": "Motor",
+	"material.inf.scrap.motor": "Scrap Motor",
+	"material.inf.iron.motor": "Iron Motor",
+	"material.inf.titanium.motor": "Titanium Motor",
+	
+	"material.inf.form.motor.desc.1": "A component that can",
+	"material.inf.form.motor.desc.2": "be used in creating",
+	"material.inf.form.motor.desc.3": "some machines.",
+	
+	
+	"material.inf.form.drill": "Drill Head",
+	"material.inf.scrap.drill": "Scrap Drill Head",
+	"material.inf.iron.drill": "Iron Drill Head",
+	"material.inf.titanium.drill": "Titanium Drill Head",
+	
+	"material.inf.form.drill.desc.1": "A large metal drill",
+	"material.inf.form.drill.desc.2": "head that can be used",
+	"material.inf.form.drill.desc.3": "to craft a drill.",
+	
 	
 	"material.inf.scrap": "Scrap",
 	"material.inf.iron": "Iron",
 	"material.inf.titanium": "Titanium",
 	"material.inf.steel": "Steel",
 	"material.inf.copper": "Copper",
-	"material.inf.gold": "Gold",
-	"material.inf.silver": "Silver",
 	"material.inf.bamboo": "Bamboo",
 	"material.inf.stone": "Stone",
 	"material.inf.redstone": "Redstone",
 	"material.inf.bluestone": "Bluestone",
 	
 	
+	"fuel.inf.category": "Fuel",
+	"fuel.inf.category.tier.0": "Fuel",
+	"fuel.inf.category.tier.1": "Tier 1 Fuel",
+	"fuel.inf.category.tier.2": "Tier 2 Fuel",
+	"fuel.inf.category.tier.3": "Tier 3 Fuel",
+	"fuel.inf.category.tier.4": "Tier 4 Fuel",
+	"fuel.inf.category.tier.5": "Tier 5 Fuel",
+	"fuel.inf.category.tier.6": "Tier 6 Fuel",
+	
+	"fuel.inf.coal": "Coal",
+	
+	
 	"machine.inf.category": "Machine",
+	"machine.inf.category.tier.0": "Machine",
+	"machine.inf.category.tier.1": "Tier 1 Machine",
+	"machine.inf.category.tier.2": "Tier 2 Machine",
+	"machine.inf.category.tier.3": "Tier 3 Machine",
+	"machine.inf.category.tier.4": "Tier 4 Machine",
+	"machine.inf.category.tier.5": "Tier 5 Machine",
+	"machine.inf.category.tier.6": "Tier 6 Machine",
 	
 	"machine.inf.component_table": "Component Table",
 	"machine.inf.machine_maker": "Machine Maker",
 	"machine.inf.wiring_table": "Wiring Table",
 	"machine.inf.tool_table": "Tool Upgrade Station",
 
-	"machine.inf.conveyor": "%s Conveyor Belt",
+	"machine.inf.conveyor": "Conveyor Belt",
+	"machine.inf.scrap.conveyor": "Scrap Conveyor Belt",
+	"machine.inf.iron.conveyor": "Iron Conveyor Belt",
+	"machine.inf.titanium.conveyor": "Titanium Conveyor Belt",
 	"machine.inf.conveyor.desc.1": "A machine that moves",
 	"machine.inf.conveyor.desc.2": "items from one place",
 	"machine.inf.conveyor.desc.3": "to another",
@@ -55,7 +180,10 @@
 	"machine.inf.elevator.desc.2": "belt that can move",
 	"machine.inf.elevator.desc.3": "items vertically.",
 	
-	"machine.inf.drill": "%s Drill",
+	"machine.inf.drill": "Drill",
+	"machine.inf.scrap.drill": "Scrap Drill",
+	"machine.inf.iron.drill": "Iron Drill",
+	"machine.inf.titanium.drill": "Titanium Drill",
 	"machine.inf.drill.desc.1": "Place on an asteroid and",
 	"machine.inf.drill.desc.2": "provide fuel to automatically",
 	"machine.inf.drill.desc.3": "harvest resources.",
@@ -91,43 +219,47 @@
 	"machine.inf.panel.lever.desc.3": "a signal.",
 	
 	
-	"machine.inf.gate": "%s Gate",
 	"machine.inf.gate.logic_gate.category": "Logic Gate",
 	
-	"machine.inf.gate.not": "NOT",
+	"machine.inf.gate.not": "NOT Gate",
 	"machine.inf.gate.not.desc.1": "A logic gate that",
 	"machine.inf.gate.not.desc.2": "inverts the incoming",
 	"machine.inf.gate.not.desc.3": "signal.",
 	
-	"machine.inf.gate.and": "AND",
+	"machine.inf.gate.and": "AND Gate",
 	"machine.inf.gate.and.desc.1": "A logic gate that sends a",
 	"machine.inf.gate.and.desc.2": "signal if both of its inputs",
 	"machine.inf.gate.and.desc.3": "are receiving a signal",
 	
-	"machine.inf.gate.or": "OR",
+	"machine.inf.gate.or": "OR Gate",
 	"machine.inf.gate.or.desc.1": "A logic gate that sends a",
 	"machine.inf.gate.or.desc.2": "signal if either of its inputs",
 	"machine.inf.gate.or.desc.3": "are receiving a signal",
 	
-	"machine.inf.gate.toggle": "TOGGLE",
+	"machine.inf.gate.toggle": "TOGGLE Gate",
 	"machine.inf.gate.toggle.desc.1": "A device that inverts",
 	"machine.inf.gate.toggle.desc.2": "it's state when it",
 	"machine.inf.gate.toggle.desc.3": "receives a signal.",
 	
-	"machine.inf.gate.repeat": "REPEAT",
+	"machine.inf.gate.repeat": "REPEAT Gate",
 	"machine.inf.gate.repeat.desc.1": "A configurable device that",
 	"machine.inf.gate.repeat.desc.2": "repeats a signal the specified",
 	"machine.inf.gate.repeat.desc.3": "amount of times.",
 	
-	"machine.inf.gate.clock": "CLOCK",
+	"machine.inf.gate.clock": "CLOCK Gate",
 	"machine.inf.gate.clock.desc.1": "A configurable device that,",
 	"machine.inf.gate.clock.desc.2": "while powered, sends out signals",
 	"machine.inf.gate.clock.desc.3": "continuously in specified intervals.",
 	
-	"machine.inf.gate.delay": "DELAY",
+	"machine.inf.gate.delay": "DELAY Gate",
 	"machine.inf.gate.delay.desc.1": "A configurable device that",
 	"machine.inf.gate.delay.desc.2": "sends out the received signal",
 	"machine.inf.gate.delay.desc.3": "after the specified amount of time.",
+	
+	"machine.inf.gate.count": "Counter",
+	"machine.inf.gate.count.desc.1": "A configurable device that",
+	"machine.inf.gate.count.desc.2": "sends a signal after it receives",
+	"machine.inf.gate.count.desc.3": "the specified amount of signals.",
 	
 	"machine.inf.gate.lamp": "Lamp",
 	"machine.inf.gate.lamp.desc.1": "A device that lights up if",
@@ -136,25 +268,44 @@
 	
 	
 	"tool.inf.category": "Tool",
+	"tool.inf.category.tier.0": "Tool",
+	"tool.inf.category.tier.1": "Tier 1 Tool",
+	"tool.inf.category.tier.2": "Tier 2 Tool",
+	"tool.inf.category.tier.3": "Tier 3 Tool",
+	"tool.inf.category.tier.4": "Tier 4 Tool",
+	"tool.inf.category.tier.5": "Tier 5 Tool",
+	"tool.inf.category.tier.6": "Tier 6 Tool",
 	
-	"tool.inf.wrench": "%s Wrench",
+	"tool.inf.wrench": "Wrench",
+	"tool.inf.scrap.wrench": "Scrap Wrench",
+	"tool.inf.iron.wrench": "Iron Wrench",
+	"tool.inf.titanium.wrench": "Titanium Wrench",
+	
 	"tool.inf.wrench.desc.1": "Allows you to break",
 	"tool.inf.wrench.desc.2": "machines and building",
 	"tool.inf.wrench.desc.3": "blocks you've placed.",
 	
-	"tool.inf.bridge_builder": "%s Bridge Builder",
+	
+	"tool.inf.bridge_builder": "Bridge Builder",
+	"tool.inf.scrap.bridge_builder": "Scrap Bridge Builder",
+	"tool.inf.iron.bridge_builder": "Iron Bridge Builder",
+	"tool.inf.titanium.bridge_builder": "Titanium Bridge Builder",
+	
+	
 	"tool.inf.bridge_builder.desc.1": "Builds a bridge using",
 	"tool.inf.bridge_builder.desc.2": "the building blocks in",
 	"tool.inf.bridge_builder.desc.3": "your offhand.",
 	"subtitles.tool.bridge_builder.build": "Bridge Building",
 	
-	"tool.inf.drill": "%s Handheld Drill",
+	
+	"tool.inf.drill": "Handheld Drill",
+	"tool.inf.scrap.drill": "Scrap Handheld Drill",
+	"tool.inf.iron.drill": "Iron Handheld Drill",
+	"tool.inf.titanium.drill": "Titanium Handheld Drill",
+	
 	"tool.inf.drill.desc.1": "Can be used to manually",
 	"tool.inf.drill.desc.2": "harvest resources from",
 	"tool.inf.drill.desc.3": "asteroids.",
-	
-	
-	"fuel.inf.coal": "Coal",
 	
 	
 	"gui.inf.required.header": "Components Required:",

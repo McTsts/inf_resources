@@ -44,11 +44,8 @@
 		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/panel/gui/lever" },	
 		{ "predicate": { "custom_model_data": 2160 }, "model": "inf:machine/gate/lamp" },	
 		
-		{ "predicate": { "custom_model_data": 2201 }, "model": "inf:item/gold" },
-		{ "predicate": { "custom_model_data": 2301 }, "model": "inf:item/silver" },
+		{ "predicate": { "custom_model_data": 3201 }, "model": "inf:item/redstone_dust" },
 		
-		{ "predicate": { "custom_model_data": 3201 }, "model": "inf:item/redstone" },
-		
-		{ "predicate": { "custom_model_data": 9701 }, "model": "inf:item/coal" }
+		{ "predicate": { "custom_model_data": 6000 }, "model": "inf:item/coal" }
 	]
 }
