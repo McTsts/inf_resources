@@ -12,6 +12,9 @@
 		{ "predicate": { "custom_model_data": 215400 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215401 }, "model": "inf:machine/gate/powered_display/not/power" },
 		
+		{ "predicate": { "custom_model_data": 215500 }, "model": "empty" },
+		{ "predicate": { "custom_model_data": 215501 }, "model": "inf:machine/gate/powered_display/toogle/power" },
+		
 		{ "predicate": { "custom_model_data": 215600 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215601 }, "model": "inf:machine/gate/powered_display/or/partial_power_right" },
 		{ "predicate": { "custom_model_data": 215602 }, "model": "inf:machine/gate/powered_display/or/partial_power_left" },
