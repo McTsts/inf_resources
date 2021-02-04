@@ -22,7 +22,7 @@
 	"material.inf.titanium.ore": "Titanium Ore",
 	"material.inf.copper.ore": "Copper Ore",
 	
-	"material.inf.form.ore.desc.1": "Can be put in a",
+	"material.inf.form.ore.desc.1": "This can be put in a",
 	"material.inf.form.ore.desc.2": "refinery to be turned",
 	"material.inf.form.ore.desc.3": "into a usable component.",
 	
@@ -48,8 +48,11 @@
 	
 	
 	"material.inf.form.beam": "Beam",
+	"material.inf.scrap.beam": "Scrap Beam",
 	"material.inf.iron.beam": "Iron Beam",
+	"material.inf.titanium.beam": "Titanium Beam",
 	"material.inf.steel.beam": "Steel Beam",
+	"material.inf.copper.beam": "Copper Beam",
 	
 	"material.inf.form.beam.desc.1": "A structural",
 	"material.inf.form.beam.desc.2": "component used",
@@ -96,8 +99,8 @@
 	"material.inf.form.dust.alloy.desc.3": "in the alloy smelter.",
 	
 	"material.inf.form.dust.raw.desc.1": "A fine powder that can be",
-	"material.inf.form.dust.raw.desc.2": "put into a refinery to",
-	"material.inf.form.dust.raw.desc.3": "create a usable component.",
+	"material.inf.form.dust.raw.desc.2": "put into a refinery to create",
+	"material.inf.form.dust.raw.desc.3": "a usable component.",
 	
 	"material.inf.form.dust.useless.desc.1": "A fine powder that",
 	"material.inf.form.dust.useless.desc.2": "probably can't be",
@@ -145,6 +148,9 @@
 	"fuel.inf.category.tier.6": "Tier 6 Fuel",
 	
 	"fuel.inf.coal": "Coal",
+	"fuel.inf.coal.desc.1": "A versatile fuel",
+	"fuel.inf.coal.desc.2": "that can be used to",
+	"fuel.inf.coal.desc.3": "power machines.",
 	
 	
 	"machine.inf.category": "Machine",

@@ -90,5 +90,9 @@
 	"block.metal.break": {
 		"sounds": [],
 		"replace": true
+	},
+	"block.wood.break": {
+		"sounds": [],
+		"replace": true
 	}
 }
