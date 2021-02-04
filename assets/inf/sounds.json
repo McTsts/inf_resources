@@ -111,5 +111,11 @@
 			"random/click"
 		],
 		"subtitle": "subtitles.machine.panel.receiver.off"
+	},
+	"machine.generic.add_fuel": {
+		"sounds": [
+			"mob/ghast/fireball4"
+		],
+		"subtitle": "subtitles.machine.generic.add_fuel"
 	}
 }

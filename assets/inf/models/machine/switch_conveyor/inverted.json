@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/switch_conveyor/base",
+	"textures": {
+		"belt": "inf:machine/switch_conveyor/belt_inverted"
+	}
+}

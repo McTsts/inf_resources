@@ -152,6 +152,7 @@
 	"fuel.inf.coal.desc.2": "that can be used to",
 	"fuel.inf.coal.desc.3": "power machines.",
 	
+	"subtitles.machine.generic.add_fuel": "Fuel Added",
 	
 	"machine.inf.category": "Machine",
 	"machine.inf.category.tier.0": "Machine",
@@ -185,6 +186,11 @@
 	"machine.inf.elevator.desc.1": "A type of conveyor",
 	"machine.inf.elevator.desc.2": "belt that can move",
 	"machine.inf.elevator.desc.3": "items vertically.",
+	
+	"machine.inf.switch_conveyor": "Switch Conveyor",
+	"machine.inf.switch_conveyor.desc.1": "A type of conveyor that",
+	"machine.inf.switch_conveyor.desc.2": "switches direction when",
+	"machine.inf.switch_conveyor.desc.3": "receiving a signal",
 	
 	"machine.inf.drill": "Drill",
 	"machine.inf.scrap.drill": "Scrap Drill",
@@ -249,10 +255,10 @@
 	"machine.inf.gate.toggle.desc.2": "it's state when it",
 	"machine.inf.gate.toggle.desc.3": "receives a signal.",
 	
-	"machine.inf.gate.repeat": "Repeater",
-	"machine.inf.gate.repeat.desc.1": "A configurable device that",
-	"machine.inf.gate.repeat.desc.2": "repeats a signal the specified",
-	"machine.inf.gate.repeat.desc.3": "amount of times.",
+	"machine.inf.gate.repeat": "Pulser",
+	"machine.inf.gate.repeat.desc.1": "A configurable device that sends",
+	"machine.inf.gate.repeat.desc.2": "a specified amount of pulses",
+	"machine.inf.gate.repeat.desc.3": "when it receives a signal.",
 	
 	"machine.inf.gate.clock": "Clock",
 	"machine.inf.gate.clock.desc.1": "A configurable device that,",
