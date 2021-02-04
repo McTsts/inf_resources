@@ -2,7 +2,7 @@
 	"multipart": [
 		{
 			"apply": {
-				"model": "inf:machine/gate/junction"
+				"model": "inf:machine/gate/junction/base"
 			}
 		},
 		{
@@ -10,7 +10,7 @@
 				"north": "true"
 			},
 			"apply": {
-				"model": "inf:machine/gate/junction/wire"
+				"model": "inf:machine/gate/junction/output_side"
 			}
 		},
 		{
@@ -18,7 +18,7 @@
 				"east": "true"
 			},
 			"apply": {
-				"model": "inf:machine/gate/junction/wire",
+				"model": "inf:machine/gate/junction/output_side",
 				"y": 90
 			}
 		},
@@ -27,7 +27,7 @@
 				"south": "true"
 			},
 			"apply": {
-				"model": "inf:machine/gate/junction/wire",
+				"model": "inf:machine/gate/junction/output_side",
 				"y": 180
 			}
 		},
@@ -36,7 +36,7 @@
 				"west": "true"
 			},
 			"apply": {
-				"model": "inf:machine/gate/junction/wire",
+				"model": "inf:machine/gate/junction/output_side",
 				"y": 270
 			}
 		},
@@ -45,8 +45,8 @@
 				"up": "true"
 			},
 			"apply": {
-				"model": "inf:machine/gate/junction/wire",
-				"x": 270
+				"model": "inf:machine/gate/junction/output_top",
+				"x": 0
 			}
 		},
 		{
@@ -54,8 +54,61 @@
 				"down": "true"
 			},
 			"apply": {
-				"model": "inf:machine/gate/junction/wire",
-				"x": 90
+				"model": "inf:machine/gate/junction/output_top",
+				"x": 180
+			}
+		},
+		{
+			"when": {
+				"north": "false"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/input_side"
+			}
+		},
+		{
+			"when": {
+				"east": "false"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/input_side",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"south": "false"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/input_side",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"west": "false"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/input_side",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"up": "false"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/input_top",
+				"x": 0
+			}
+		},
+		{
+			"when": {
+				"down": "false"
+			},
+			"apply": {
+				"model": "inf:machine/gate/junction/input_top",
+				"x": 180
 			}
 		}
 	]

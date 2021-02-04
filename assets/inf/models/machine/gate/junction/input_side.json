@@ -1,0 +1,54 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"gate_base": "inf:machine/gate/base",
+		"particle": "block/smooth_stone"
+	},
+	"elements": [
+		{
+			"from": [4, 3, 3],
+			"to": [12, 13, 3],
+			"faces": {
+				"north": {"uv": [2, 8, 6, 13], "texture": "#gate_base", "cullface": "north"}
+			}
+		},
+		{
+			"from": [4, 3, 2],
+			"to": [12, 3, 3],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 0], "texture": "#missing"},
+				"up": {"uv": [2, 7, 6, 7.5], "texture": "#gate_base", "cullface": "north"}
+			}
+		},
+		{
+			"from": [4, 13, 2],
+			"to": [12, 13, 3],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 0], "texture": "#missing"},
+				"down": {"uv": [2, 7, 6, 7.5], "texture": "#gate_base", "cullface": "north"}
+			}
+		},
+		{
+			"from": [2, 3, 1],
+			"to": [4, 13, 3],
+			"faces": {
+				"north": {"uv": [0, 8, 1, 13], "texture": "#gate_base", "cullface": "north"},
+				"east": {"uv": [15, 0, 16, 5], "texture": "#gate_base", "cullface": "north"}
+			}
+		},
+		{
+			"from": [12, 3, 1],
+			"to": [14, 13, 3],
+			"faces": {
+				"north": {"uv": [0.5, 8, 1.5, 13], "texture": "#gate_base", "cullface": "north"},
+				"west": {"uv": [14.5, 0, 15.5, 5], "texture": "#gate_base", "cullface": "north"}
+			}
+		}
+	]
+}

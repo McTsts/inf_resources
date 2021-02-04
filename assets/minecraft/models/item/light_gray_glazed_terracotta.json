@@ -10,6 +10,7 @@
 		{ "predicate": { "custom_model_data": 2156 }, "model": "inf:machine/gate/or" },
 		{ "predicate": { "custom_model_data": 2161 }, "model": "inf:machine/gate/lamp" },
 		{ "predicate": { "custom_model_data": 2162 }, "model": "inf:machine/gate/count/gui" },
+		{ "predicate": { "custom_model_data": 2163 }, "model": "inf:machine/gate/junction/gui" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" }
 	]
 }

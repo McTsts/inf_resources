@@ -173,7 +173,7 @@
 	"machine.inf.titanium.conveyor": "Titanium Conveyor Belt",
 	"machine.inf.conveyor.desc.1": "A machine that moves",
 	"machine.inf.conveyor.desc.2": "items from one place",
-	"machine.inf.conveyor.desc.3": "to another",
+	"machine.inf.conveyor.desc.3": "to another.",
 	
 	"machine.inf.filter": "Filter",
 	"machine.inf.filter.desc.1": "A type of conveyor",
@@ -195,7 +195,7 @@
 	"machine.inf.drill.desc.3": "harvest resources.",
 	
 	
-	"machine.inf.panel.category": "???",
+	"machine.inf.panel.category": "Signal Panel",
 	
 	"machine.inf.panel.receiver": "Receiver",
 	"machine.inf.panel.receiver.desc.1": "A device that receives a",
@@ -235,29 +235,31 @@
 	"machine.inf.gate.and": "AND Gate",
 	"machine.inf.gate.and.desc.1": "A logic gate that sends a",
 	"machine.inf.gate.and.desc.2": "signal if both of its inputs",
-	"machine.inf.gate.and.desc.3": "are receiving a signal",
+	"machine.inf.gate.and.desc.3": "are receiving a signal.",
 	
 	"machine.inf.gate.or": "OR Gate",
 	"machine.inf.gate.or.desc.1": "A logic gate that sends a",
 	"machine.inf.gate.or.desc.2": "signal if either of its inputs",
-	"machine.inf.gate.or.desc.3": "are receiving a signal",
+	"machine.inf.gate.or.desc.3": "are receiving a signal.",
 	
-	"machine.inf.gate.toggle": "TOGGLE Gate",
+	"machine.inf.gate.handle.category": "Signal Handler",
+	
+	"machine.inf.gate.toggle": "Switch",
 	"machine.inf.gate.toggle.desc.1": "A device that inverts",
 	"machine.inf.gate.toggle.desc.2": "it's state when it",
 	"machine.inf.gate.toggle.desc.3": "receives a signal.",
 	
-	"machine.inf.gate.repeat": "REPEAT Gate",
+	"machine.inf.gate.repeat": "Repeater",
 	"machine.inf.gate.repeat.desc.1": "A configurable device that",
 	"machine.inf.gate.repeat.desc.2": "repeats a signal the specified",
 	"machine.inf.gate.repeat.desc.3": "amount of times.",
 	
-	"machine.inf.gate.clock": "CLOCK Gate",
+	"machine.inf.gate.clock": "Clock",
 	"machine.inf.gate.clock.desc.1": "A configurable device that,",
 	"machine.inf.gate.clock.desc.2": "while powered, sends out signals",
 	"machine.inf.gate.clock.desc.3": "continuously in specified intervals.",
 	
-	"machine.inf.gate.delay": "DELAY Gate",
+	"machine.inf.gate.delay": "Delay",
 	"machine.inf.gate.delay.desc.1": "A configurable device that",
 	"machine.inf.gate.delay.desc.2": "sends out the received signal",
 	"machine.inf.gate.delay.desc.3": "after the specified amount of time.",
@@ -267,10 +269,17 @@
 	"machine.inf.gate.count.desc.2": "sends a signal after it receives",
 	"machine.inf.gate.count.desc.3": "the specified amount of signals.",
 	
+	"machine.inf.gate.misc.category": "Signal Segment",
+	
 	"machine.inf.gate.lamp": "Lamp",
 	"machine.inf.gate.lamp.desc.1": "A device that lights up if",
 	"machine.inf.gate.lamp.desc.2": "it is currently receiving",
 	"machine.inf.gate.lamp.desc.3": "a signal.",
+	
+	"machine.inf.gate.junction": "Junction",
+	"machine.inf.gate.junction.desc.1": "A box of directable",
+	"machine.inf.gate.junction.desc.2": "input and output",
+	"machine.inf.gate.junction.desc.3": "wires.",
 	
 	
 	"tool.inf.category": "Tool",
