@@ -6,7 +6,6 @@
 	"overrides": [	
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		
-		{ "predicate": { "custom_model_data": 215000 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215000 }, "model": "inf:machine/gate/powered_display/clock/dark/power_1" },
 		{ "predicate": { "custom_model_data": 215001 }, "model": "inf:machine/gate/powered_display/clock/dark/power_2" },
 		{ "predicate": { "custom_model_data": 215002 }, "model": "inf:machine/gate/powered_display/clock/dark/power_3" },
@@ -37,6 +36,8 @@
 		{ "predicate": { "custom_model_data": 215027 }, "model": "inf:machine/gate/powered_display/clock/bright/power_8" },
 		{ "predicate": { "custom_model_data": 215028 }, "model": "inf:machine/gate/powered_display/clock/bright/power_9" },
 		{ "predicate": { "custom_model_data": 215029 }, "model": "inf:machine/gate/powered_display/clock/bright/power_10" },
+		{ "predicate": { "custom_model_data": 215030 }, "model": "inf:machine/gate/powered_display/clock/power" },
+		{ "predicate": { "custom_model_data": 215035 }, "model": "inf:machine/gate/powered_display/clock/no_power" },
 		
 		{ "predicate": { "custom_model_data": 215300 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215301 }, "model": "inf:machine/gate/powered_display/and/partial_power_right" },
