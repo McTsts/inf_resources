@@ -2,7 +2,7 @@
 	"parent": "block/block",
 	"textures": {
 		"base": "inf:machine/refinery/base",
-		"inside": "inf:machine/refinery/inside",
+		"inside": "inf:machine/refinery/inside_lit",
 		"particle": "block/cauldron_inner"
 	},
 	"elements": [
@@ -178,9 +178,9 @@
 		},
 		{
 			"from": [4, 2, 4],
-			"to": [12, 10, 12],
+			"to": [12, 12, 12],
 			"faces": {
-				"north": {"uv": [0, 4, 4, 8], "texture": "#base"},
+				"north": {"uv": [0, 3, 4, 8], "texture": "#base"},
 				"east": {"uv": [0, 1.5, 4, 8], "texture": "#base"},
 				"south": {"uv": [0, 1.5, 4, 8], "texture": "#base"},
 				"west": {"uv": [0, 1.5, 4, 8], "texture": "#base"},
