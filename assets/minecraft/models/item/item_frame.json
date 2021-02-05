@@ -28,12 +28,6 @@
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
 		
 		{ "predicate": { "custom_model_data": 105800 }, "model": "inf:machine/refinery/off" },
-		{ "predicate": { "custom_model_data": 105801 }, "model": "inf:machine/refinery/on" },
-		
-		{ "predicate": { "custom_model_data": 106000 }, "model": "inf:machine/alloy_furnace/fuel_0" },
-		{ "predicate": { "custom_model_data": 106001 }, "model": "inf:machine/alloy_furnace/fuel_1" },
-		{ "predicate": { "custom_model_data": 106002 }, "model": "inf:machine/alloy_furnace/fuel_2" },
-		{ "predicate": { "custom_model_data": 106003 }, "model": "inf:machine/alloy_furnace/fuel_3" },
-		{ "predicate": { "custom_model_data": 106004 }, "model": "inf:machine/alloy_furnace/fuel_4" }
+		{ "predicate": { "custom_model_data": 105801 }, "model": "inf:machine/refinery/on" }
 	]
 }

@@ -152,6 +152,7 @@
 	"fuel.inf.coal.desc.2": "that can be used to",
 	"fuel.inf.coal.desc.3": "power machines.",
 	
+	"subtitles.machine.generic.add_fuel": "Fuel Added",
 	
 	"machine.inf.category": "Machine",
 	"machine.inf.category.tier.0": "Machine",
@@ -186,6 +187,11 @@
 	"machine.inf.elevator.desc.2": "belt that can move",
 	"machine.inf.elevator.desc.3": "items vertically.",
 	
+	"machine.inf.switch_conveyor": "Switch Conveyor",
+	"machine.inf.switch_conveyor.desc.1": "A type of conveyor that",
+	"machine.inf.switch_conveyor.desc.2": "switches direction when",
+	"machine.inf.switch_conveyor.desc.3": "receiving a signal.",
+	
 	"machine.inf.drill": "Drill",
 	"machine.inf.scrap.drill": "Scrap Drill",
 	"machine.inf.iron.drill": "Iron Drill",
@@ -193,6 +199,16 @@
 	"machine.inf.drill.desc.1": "Place on an asteroid and",
 	"machine.inf.drill.desc.2": "provide fuel to automatically",
 	"machine.inf.drill.desc.3": "harvest resources.",
+	
+	"machine.inf.refinery": "Refinery",
+	"machine.inf.refinery.desc.1": "A machine that can",
+	"machine.inf.refinery.desc.2": "refine ores and dust",
+	"machine.inf.refinery.desc.3": "into ingots.",
+	
+	"machine.inf.crusher": "Crusher",
+	"machine.inf.crusher.desc.1": "A machine that crushes",
+	"machine.inf.crusher.desc.2": "just about anything into",
+	"machine.inf.crusher.desc.3": "a fine powder.",
 	
 	
 	"machine.inf.panel.category": "Signal Panel",
@@ -249,10 +265,10 @@
 	"machine.inf.gate.toggle.desc.2": "it's state when it",
 	"machine.inf.gate.toggle.desc.3": "receives a signal.",
 	
-	"machine.inf.gate.repeat": "Repeater",
-	"machine.inf.gate.repeat.desc.1": "A configurable device that",
-	"machine.inf.gate.repeat.desc.2": "repeats a signal the specified",
-	"machine.inf.gate.repeat.desc.3": "amount of times.",
+	"machine.inf.gate.repeat": "Pulser",
+	"machine.inf.gate.repeat.desc.1": "A configurable device that sends",
+	"machine.inf.gate.repeat.desc.2": "a specified amount of pulses",
+	"machine.inf.gate.repeat.desc.3": "when it receives a signal.",
 	
 	"machine.inf.gate.clock": "Clock",
 	"machine.inf.gate.clock.desc.1": "A configurable device that,",
