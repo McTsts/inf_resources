@@ -6,7 +6,7 @@
 	"overrides": [	
 		{ "predicate": { "custom_model_data": 1052 }, "model": "inf:machine/filter/gui" },
 		{ "predicate": { "custom_model_data": 1053 }, "model": "inf:machine/elevator/gui" },
-		{ "predicate": { "custom_model_data": 1058 }, "model": "inf:machine/refinery/base" },
+		{ "predicate": { "custom_model_data": 1058 }, "model": "inf:machine/refinery/gui" },
 		{ "predicate": { "custom_model_data": 1059 }, "model": "inf:machine/crusher/base" },
 		{ "predicate": { "custom_model_data": 1060 }, "model": "inf:machine/alloy_furnace/base" },
 		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" },
@@ -28,6 +28,8 @@
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
 		
 		{ "predicate": { "custom_model_data": 105800 }, "model": "inf:machine/refinery/off" },
-		{ "predicate": { "custom_model_data": 105801 }, "model": "inf:machine/refinery/on" }
+		{ "predicate": { "custom_model_data": 105801 }, "model": "inf:machine/refinery/low" },
+		{ "predicate": { "custom_model_data": 105802 }, "model": "inf:machine/refinery/med" },
+		{ "predicate": { "custom_model_data": 105803 }, "model": "inf:machine/refinery/full" }
 	]
 }
