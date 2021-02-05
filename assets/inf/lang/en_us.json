@@ -190,7 +190,7 @@
 	"machine.inf.switch_conveyor": "Switch Conveyor",
 	"machine.inf.switch_conveyor.desc.1": "A type of conveyor that",
 	"machine.inf.switch_conveyor.desc.2": "switches direction when",
-	"machine.inf.switch_conveyor.desc.3": "receiving a signal",
+	"machine.inf.switch_conveyor.desc.3": "receiving a signal.",
 	
 	"machine.inf.drill": "Drill",
 	"machine.inf.scrap.drill": "Scrap Drill",
@@ -199,6 +199,16 @@
 	"machine.inf.drill.desc.1": "Place on an asteroid and",
 	"machine.inf.drill.desc.2": "provide fuel to automatically",
 	"machine.inf.drill.desc.3": "harvest resources.",
+	
+	"machine.inf.refinery": "Refinery",
+	"machine.inf.refinery.desc.1": "A machine that can",
+	"machine.inf.refinery.desc.2": "refine ores and dust",
+	"machine.inf.refinery.desc.3": "into ingots.",
+	
+	"machine.inf.crusher": "Crusher",
+	"machine.inf.crusher.desc.1": "A machine that crushes",
+	"machine.inf.crusher.desc.2": "just about anything into",
+	"machine.inf.crusher.desc.3": "a fine powder.",
 	
 	
 	"machine.inf.panel.category": "Signal Panel",
