@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/gate/powered_display",
+	"textures": {
+		"face": "inf:machine/gate/count/power_plus"
+	}
+}

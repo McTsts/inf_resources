@@ -60,6 +60,15 @@
 		{ "predicate": { "custom_model_data": 215600 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215601 }, "model": "inf:machine/gate/powered_display/or/partial_power_right" },
 		{ "predicate": { "custom_model_data": 215602 }, "model": "inf:machine/gate/powered_display/or/partial_power_left" },
-		{ "predicate": { "custom_model_data": 215603 }, "model": "inf:machine/gate/powered_display/or/power" }
+		{ "predicate": { "custom_model_data": 215603 }, "model": "inf:machine/gate/powered_display/or/power" },
+		
+		{ "predicate": { "custom_model_data": 216200 }, "model": "empty" },
+		{ "predicate": { "custom_model_data": 216201 }, "model": "inf:machine/gate/powered_display/count/plus" },
+		{ "predicate": { "custom_model_data": 216202 }, "model": "inf:machine/gate/powered_display/count/minus" },
+		{ "predicate": { "custom_model_data": 216203 }, "model": "inf:machine/gate/powered_display/count/both" },
+		{ "predicate": { "custom_model_data": 216210 }, "model": "inf:machine/gate/powered_display/count/power" },
+		{ "predicate": { "custom_model_data": 216211 }, "model": "inf:machine/gate/powered_display/count/power_plus" },
+		{ "predicate": { "custom_model_data": 216212 }, "model": "inf:machine/gate/powered_display/count/power_minus" },
+		{ "predicate": { "custom_model_data": 216213 }, "model": "inf:machine/gate/powered_display/count/power_both" }
 	]
 }

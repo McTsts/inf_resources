@@ -4,6 +4,7 @@
 		"layer0": "minecraft:item/lead"
 	},
 	"overrides": [	
+		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 50000 }, "model": "inf:machine/gate/configurable_logic_gate_interface/not_pressed/00" },
 		{ "predicate": { "custom_model_data": 50001 }, "model": "inf:machine/gate/configurable_logic_gate_interface/not_pressed/01" },
 		{ "predicate": { "custom_model_data": 50002 }, "model": "inf:machine/gate/configurable_logic_gate_interface/not_pressed/02" },
