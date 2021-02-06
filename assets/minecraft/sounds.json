@@ -1,62 +1,62 @@
 {
 	"block.dispenser.dispense": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.dispenser.fail": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.dispenser.launch": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.tripwire.attach": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.tripwire.click_off": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.tripwire.click_on": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.tripwire.detach": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"item.armor.equip_generic": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"entity.item_frame.add_item": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"entity.item_frame.break": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"entity.item_frame.place": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"entity.item_frame.remove_item": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"entity.item_frame.rotate_item": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.iron_trapdoor.close": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.iron_trapdoor.open": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.barrel.close": {
@@ -70,11 +70,11 @@
 		"replace": true
 	},
 	"block.chest.close": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.chest.open": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.glass.break": {
@@ -88,11 +88,11 @@
 		"replace": true
 	},
 	"block.metal.break": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	},
 	"block.wood.break": {
-		"sounds": [],
+		"sounds": ["empty"],
 		"replace": true
 	}
 }

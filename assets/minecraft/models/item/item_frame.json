@@ -25,6 +25,12 @@
 		{ "predicate": { "custom_model_data": 2161 }, "model": "inf:machine/gate/count/gui" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		
+		{ "predicate": { "custom_model_data": 105100 }, "model": "inf:machine/drill/fuel_display" },
+		{ "predicate": { "custom_model_data": 105101 }, "model": "inf:machine/drill/fuel_display/1" },
+		{ "predicate": { "custom_model_data": 105102 }, "model": "inf:machine/drill/fuel_display/2" },
+		{ "predicate": { "custom_model_data": 105103 }, "model": "inf:machine/drill/fuel_display/3" },
+		{ "predicate": { "custom_model_data": 105104 }, "model": "inf:machine/drill/fuel_display/4" },
+		
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
 		
 		{ "predicate": { "custom_model_data": 105800 }, "model": "inf:machine/refinery/off" },
