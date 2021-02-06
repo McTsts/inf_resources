@@ -1,4 +1,11 @@
 {
+	"place_error.inf.generic": "Could not place %s.",
+	"place_error.inf.generic.too_high": "Could not place %s. Outside of build limit",
+	"place_error.inf.generic.obstructed": "Could not place %s. Another block is here.",
+	"place_error.inf.signals.wrong_face": "Could not place %s on this face.",
+	"place_error.inf.signals.limit_reached": "Could not place %s. Maximum amount reached.",
+	"place_error.inf.elevator.top_obstructed": "Could not place %s. No more room at the top.",
+
 	"tier.inf.0": "",
 	"tier.inf.1": "Tier 1",
 	"tier.inf.2": "Tier 2",
