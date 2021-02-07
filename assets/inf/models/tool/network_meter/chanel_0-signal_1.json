@@ -1,7 +1,7 @@
 {
 	"parent": "inf:tool/network_meter/base",
 	"textures": {
-		"channel": "inf:machine/generic/0",
-		"signal": "inf:tool/network_meter/signal_1"
+		"number0": "inf:tool/network_meter/0",
+		"number1": "inf:tool/network_meter/signal_1"
 	}
 }
