@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/beacon",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "inf:machine/bubble_generator/head" }
+	]
+}

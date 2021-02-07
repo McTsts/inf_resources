@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "inf:item/scrap_beam"
 	}
