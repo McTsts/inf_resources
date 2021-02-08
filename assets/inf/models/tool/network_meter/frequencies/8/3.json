@@ -1,0 +1,7 @@
+{
+	"parent": "inf:tool/network_meter/base",
+	"textures": {
+		"number0": "inf:tool/network_meter/8",
+		"number1": "inf:tool/network_meter/signal_3"
+	}
+}

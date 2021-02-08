@@ -4,8 +4,8 @@
 	"textures": {
 		"particle": "inf:tool/network_meter/base",
 		"base": "inf:tool/network_meter/base",
-		"number0": "inf:tool/network_meter/2",
-		"number1": "inf:tool/network_meter/3"
+		"number0": "empty",
+		"number1": "empty"
 	},
 	"elements": [
 		{
@@ -113,12 +113,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [-7, -23, 0],
-			"translation": [1, 4.5, 0],
+			"translation": [1, 14.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
 			"rotation": [-7, -33, 0],
-			"translation": [0, 4.5, 0],
+			"translation": [0, 14.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
