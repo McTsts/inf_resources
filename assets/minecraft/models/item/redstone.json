@@ -40,9 +40,12 @@
 		{ "predicate": { "custom_model_data": 215035 }, "model": "inf:machine/gate/powered_display/clock/no_power" },
 		
 		{ "predicate": { "custom_model_data": 215100 }, "model": "empty" },
-		{ "predicate": { "custom_model_data": 215101 }, "model": "inf:machine/gate/powered_display/repeat/partial_power_back" },
-		{ "predicate": { "custom_model_data": 215102 }, "model": "inf:machine/gate/powered_display/repeat/partial_power_front" },
-		{ "predicate": { "custom_model_data": 215103 }, "model": "inf:machine/gate/powered_display/repeat/power" },
+		{ "predicate": { "custom_model_data": 215101 }, "model": "inf:machine/gate/powered_display/delay/power" },
+		
+		{ "predicate": { "custom_model_data": 215200 }, "model": "empty" },
+		{ "predicate": { "custom_model_data": 215201 }, "model": "inf:machine/gate/powered_display/repeat/partial_power_back" },
+		{ "predicate": { "custom_model_data": 215202 }, "model": "inf:machine/gate/powered_display/repeat/partial_power_front" },
+		{ "predicate": { "custom_model_data": 215203 }, "model": "inf:machine/gate/powered_display/repeat/power" },
 		
 		{ "predicate": { "custom_model_data": 215300 }, "model": "empty" },
 		{ "predicate": { "custom_model_data": 215301 }, "model": "inf:machine/gate/powered_display/and/partial_power_right" },
