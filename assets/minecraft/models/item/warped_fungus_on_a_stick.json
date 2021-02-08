@@ -182,6 +182,16 @@
 		{ "predicate": { "custom_model_data": 297, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/values/97" },
 		{ "predicate": { "custom_model_data": 298, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/values/98" },
 		{ "predicate": { "custom_model_data": 299, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/values/99" },
+		{ "predicate": { "custom_model_data": 300, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/a" },
+		{ "predicate": { "custom_model_data": 310, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/b" },
+		{ "predicate": { "custom_model_data": 320, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/c" },
+		{ "predicate": { "custom_model_data": 330, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/d" },
+		{ "predicate": { "custom_model_data": 340, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/e" },
+		{ "predicate": { "custom_model_data": 350, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/f" },
+		{ "predicate": { "custom_model_data": 360, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/g" },
+		{ "predicate": { "custom_model_data": 370, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/h" },
+		{ "predicate": { "custom_model_data": 380, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/i" },
+		{ "predicate": { "custom_model_data": 390, "damaged": 0, "damage": 0.03 }, "model": "inf:tool/network_meter/frequencies/j" },
 		
 		{ "predicate": { "custom_model_data": 9999, "damaged": 0, "damage": 0.03 }, "model": "empty" }
 	]
