@@ -1,3 +1,11 @@
 {
-    "parent": "inf:tool/gun/charged"
+	"parent": "inf:tool/gun/base",
+	"overrides": [
+		{
+			"predicate": {
+				"charged": 1
+			},
+			"model": "inf:tool/gun/charged"
+		}
+	]
 }

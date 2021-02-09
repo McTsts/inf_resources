@@ -329,7 +329,6 @@
 	"tool.inf.iron.bridge_builder": "Iron Bridge Builder",
 	"tool.inf.titanium.bridge_builder": "Titanium Bridge Builder",
 	
-	
 	"tool.inf.bridge_builder.desc.1": "Builds a bridge using",
 	"tool.inf.bridge_builder.desc.2": "the building blocks in",
 	"tool.inf.bridge_builder.desc.3": "your offhand.",
@@ -344,6 +343,40 @@
 	"tool.inf.drill.desc.1": "Can be used to manually",
 	"tool.inf.drill.desc.2": "harvest resources from",
 	"tool.inf.drill.desc.3": "asteroids.",
+	
+	
+	"tool.inf.gun": "Laser",
+	"tool.inf.scrap.gun": "Scrap Laser",
+	"tool.inf.iron.gun": "Iron Laser",
+	"tool.inf.titanium.gun": "Titanium Laser",
+	
+	"tool.inf.gun.desc.1": "This powerful beam",
+	"tool.inf.gun.desc.2": "weapon is an effective",
+	"tool.inf.gun.desc.3": "self deference tool.",
+	
+	
+	"equipment.inf.category": "Equipment",
+	"equipment.inf.category.tier.1": "Tier 1 Equipment",
+	"equipment.inf.category.tier.2": "Tier 2 Equipment",
+	"equipment.inf.category.tier.3": "Tier 3 Equipment",
+	"equipment.inf.category.tier.4": "Tier 4 Equipment",
+	"equipment.inf.category.tier.5": "Tier 5 Equipment",
+	"equipment.inf.category.tier.6": "Tier 6 Equipment",
+	
+	
+	"equipment.inf.helmet": "Emergency Respirator",
+	
+	"equipment.inf.helmet.desc.1": "With This helmet you can",
+	"equipment.inf.helmet.desc.2": "temporarily breath outside",
+	"equipment.inf.helmet.desc.3": "your generated atmosphere.",
+	
+	
+	"equipment.inf.jetpack": "Jetpack",
+	
+	"equipment.inf.jetpack.desc.1": "This wearable set of",
+	"equipment.inf.jetpack.desc.2": "rockets can propel you ",
+	"equipment.inf.jetpack.desc.3": "upwards for short bursts.",
+	"equipment.inf.jetpack.hint.use": "Hold %s to use.",
 	
 	
 	"gui.inf.required.header": "Components Required:",

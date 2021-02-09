@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "inf:tool/gun/level_1_alt"
+        "layer0": "inf:tool/gun/level_1"
     },
     "display": {
         "thirdperson_righthand": {
