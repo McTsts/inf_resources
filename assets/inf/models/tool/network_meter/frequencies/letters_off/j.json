@@ -2,6 +2,6 @@
 	"parent": "inf:tool/network_meter/base",
 	"textures": {
 		"number0": "inf:tool/network_meter/j",
-		"number1": "inf:tool/network_meter/signal_"
+		"number1": "inf:tool/network_meter/signal_0"
 	}
 }
