@@ -2,7 +2,8 @@
 	"parent": "block/block",
 	"textures": {
 		"base": "inf:machine/drill/level_1/base",
-		"particle": "block/furnace_top"
+		"particle": "block/furnace_top",
+		"display": "inf:machine/generic/fuel_display"
 	},
 	"elements": [
 		{
@@ -155,6 +156,18 @@
 				"west": {"uv": [0, 11.5, 1, 12.5], "texture": "#base"},
 				"up": {"uv": [0, 10.5, 3.5, 12], "texture": "#base"},
 				"down": {"uv": [0, 10.5, 3.5, 12], "rotation": 180, "texture": "#base"}
+			}
+		},
+		{
+			"from": [6, 10, 3],
+			"to": [10, 16, 5],
+			"faces": {
+				"north": {"uv": [1, 2, 5, 8], "texture": "#display"},
+				"east": {"uv": [11, 2, 13, 8], "texture": "#display"},
+				"south": {"uv": [7, 2, 11, 8], "texture": "#display"},
+				"west": {"uv": [5, 2, 7, 8], "texture": "#display"},
+				"up": {"uv": [1, 0, 5, 2], "texture": "#display"},
+				"down": {"uv": [1, 8, 5, 10], "texture": "#display"}
 			}
 		}
 	]

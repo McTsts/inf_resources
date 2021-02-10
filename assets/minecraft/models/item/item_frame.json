@@ -25,17 +25,18 @@
 		{ "predicate": { "custom_model_data": 2161 }, "model": "inf:machine/gate/count/gui" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "empty" },
 		
-		{ "predicate": { "custom_model_data": 105100 }, "model": "inf:machine/drill/fuel_display" },
-		{ "predicate": { "custom_model_data": 105101 }, "model": "inf:machine/drill/fuel_display/1" },
-		{ "predicate": { "custom_model_data": 105102 }, "model": "inf:machine/drill/fuel_display/2" },
-		{ "predicate": { "custom_model_data": 105103 }, "model": "inf:machine/drill/fuel_display/3" },
-		{ "predicate": { "custom_model_data": 105104 }, "model": "inf:machine/drill/fuel_display/4" },
-		
 		{ "predicate": { "custom_model_data": 105300 }, "model": "inf:machine/elevator/tray" },
 		
 		{ "predicate": { "custom_model_data": 105800 }, "model": "inf:machine/refinery/off" },
 		{ "predicate": { "custom_model_data": 105801 }, "model": "inf:machine/refinery/low" },
 		{ "predicate": { "custom_model_data": 105802 }, "model": "inf:machine/refinery/med" },
-		{ "predicate": { "custom_model_data": 105803 }, "model": "inf:machine/refinery/full" }
+		{ "predicate": { "custom_model_data": 105803 }, "model": "inf:machine/refinery/full" },
+		
+		{ "predicate": { "custom_model_data": 115100 }, "model": "inf:machine/drill/level_1/base" },
+		{ "predicate": { "custom_model_data": 115101 }, "model": "inf:machine/drill/level_1/1" },
+		{ "predicate": { "custom_model_data": 115102 }, "model": "inf:machine/drill/level_1/2" },
+		{ "predicate": { "custom_model_data": 115103 }, "model": "inf:machine/drill/level_1/3" },
+		{ "predicate": { "custom_model_data": 115104 }, "model": "inf:machine/drill/level_1/4" },
+		{ "predicate": { "custom_model_data": 115110 }, "model": "inf:machine/drill/level_1/head" }
 	]
 }
