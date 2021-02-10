@@ -1,0 +1,16 @@
+{
+	"textures": {
+		"log": "inf:block/log/oak_log",
+		"particle": "block/oak_log"
+	},
+	"elements": [
+		{
+			"from": [10, 3, 8],
+			"to": [17, 8, 8],
+			"faces": {
+				"north": {"uv": [6, 16, 11, 9], "rotation": 270, "texture": "#log"},
+				"south": {"uv": [6, 9, 11, 16], "rotation": 270, "texture": "#log"}
+			}
+		}
+	]
+}

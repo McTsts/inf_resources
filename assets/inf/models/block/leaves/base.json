@@ -1,0 +1,79 @@
+{
+	"textures": {
+		"0": "inf:block/leaves/oak_leaves",
+		"particle": "inf:block/leaves/oak_leaves"
+	},
+	"elements": [
+		{
+			"from": [8, -8, -3],
+			"to": [8, 24, 19],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [2.5, 0, 13.5, 16], "texture": "#0"},
+				"west": {"uv": [2.5, 0, 13.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, -8, 8],
+			"to": [19, 24, 8],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 13.5, 16], "texture": "#0"},
+				"south": {"uv": [2.5, 0, 13.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -3, -8],
+			"to": [8, 19, 24],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [2.5, 0, 13.5, 16], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [2.5, 0, 13.5, 16], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, 8, -8],
+			"to": [19, 8, 24],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [2.5, 0, 13.5, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2.5, 0, 13.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-8, -3, 8],
+			"to": [24, 19, 8],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 13.5, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2.5, 0, 13.5, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-8, 8, -3],
+			"to": [24, 8, 19],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [2.5, 0, 13.5, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [2.5, 0, 13.5, 16], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [2, 3]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [4, 5]
+		}
+	]
+}
