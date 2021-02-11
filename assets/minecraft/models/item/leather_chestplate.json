@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "inf:equipment/jetpack/icon_base",
+        "layer1": "inf:equipment/jetpack/icon_overlay"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "inf:tool/gun/level_1/unloaded",
+    "textures": {
+        "layer1": "inf:tool/gun/5_shots"
+    }
+}

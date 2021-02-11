@@ -1,11 +1,20 @@
 {
-	"parent": "inf:tool/gun/base",
+	"parent": "inf:tool/gun/level_1/unloaded",
 	"overrides": [
-		{
-			"predicate": {
-				"charged": 1
-			},
-			"model": "inf:tool/gun/charged"
-		}
+		{ "predicate": { "custom_model_data": 1 }, "model": "inf:test" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "inf:test2" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "inf:tool/gun/level_1/unloaded" },
+		{ "predicate": { "custom_model_data": 10, "pulling": 1 }, "model": "inf:tool/gun/level_1/unloaded" },
+		{ "predicate": { "custom_model_data": 10, "pulling": 1, "pull": 0.20 }, "model": "inf:tool/gun/level_1/unloaded_1" },
+		{ "predicate": { "custom_model_data": 10, "pulling": 1, "pull": 0.40 }, "model": "inf:tool/gun/level_1/unloaded_2" },
+		{ "predicate": { "custom_model_data": 10, "pulling": 1, "pull": 0.60 }, "model": "inf:tool/gun/level_1/unloaded_3" },
+		{ "predicate": { "custom_model_data": 10, "pulling": 1, "pull": 0.80 }, "model": "inf:tool/gun/level_1/unloaded_4" },
+		{ "predicate": { "custom_model_data": 10, "pulling": 1, "pull": 1.00 }, "model": "inf:tool/gun/level_1/unloaded_5" },
+		{ "predicate": { "custom_model_data": 10, "charged": 1 }, "model": "inf:tool/gun/level_1/loaded_5" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "inf:tool/gun/level_1/loaded_1" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "inf:tool/gun/level_1/loaded_2" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "inf:tool/gun/level_1/loaded_3" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "inf:tool/gun/level_1/loaded_4" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "inf:tool/gun/level_1/loaded_5" } 
 	]
 }

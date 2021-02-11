@@ -94,5 +94,43 @@
 	"block.wood.break": {
 		"sounds": ["empty"],
 		"replace": true
+	},
+	"item.crossbow.quick_charge_1": {
+		"sounds": ["empty"],
+		"subtitle": "subtitles.tool.inf.gun.load",
+		"replace": true
+	},
+	"item.crossbow.quick_charge_2": {
+		"sounds": ["empty"],
+		"subtitle": "subtitles.tool.inf.gun.load",
+		"replace": true
+	},
+	"item.crossbow.quick_charge_3": {
+		"sounds": ["empty"],
+		"subtitle": "subtitles.tool.inf.gun.load",
+		"replace": true
+	},
+	"item.crossbow.loading_start": {
+		"sounds": ["empty"],
+		"subtitle": "subtitles.tool.inf.gun.load",
+		"replace": true
+	},
+	"item.crossbow.loading_middle": {
+		"sounds": ["empty"],
+		"replace": true
+	},
+	"item.crossbow.loading_end": {
+		"sounds": ["empty"],
+		"subtitle": "subtitles.tool.inf.gun.load",
+		"replace": true
+	},
+	"item.crossbow.shoot": {
+		"sounds": ["empty"],
+		"subtitle": "subtitles.tool.inf.gun.shoot",
+		"replace": true
+	},
+	"item.crossbow.hit": {
+		"sounds": ["empty"],
+		"replace": true
 	}
 }

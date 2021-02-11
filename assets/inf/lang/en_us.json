@@ -354,6 +354,9 @@
 	"tool.inf.gun.desc.2": "weapon is an effective",
 	"tool.inf.gun.desc.3": "self deference tool.",
 	
+	"subtitles.tool.inf.gun.load": "Loading laser",
+	"subtitles.tool.inf.gun.shoot": "Laser shoots",
+	
 	
 	"equipment.inf.category": "Equipment",
 	"equipment.inf.category.tier.1": "Tier 1 Equipment",

@@ -1,0 +1,32 @@
+{
+	"textures": {
+		"0": "inf:block/steel_block_s",
+		"particle": "inf:block/steel_block_s"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 10, 100, -40 ],
+			"translation": [ 11.13, 3.2, 3.13 ],
+			"scale": [ 0.68, 0.68, 0.68 ]
+		}
+	}
+}
