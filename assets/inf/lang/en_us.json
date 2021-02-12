@@ -354,6 +354,8 @@
 	"tool.inf.gun.desc.2": "weapon is an effective",
 	"tool.inf.gun.desc.3": "self deference tool.",
 	
+	"tool.inf.gun.power": "Energy %1$s/%2$s",
+	
 	"subtitles.tool.inf.gun.load": "Loading laser",
 	"subtitles.tool.inf.gun.shoot": "Laser shoots",
 	

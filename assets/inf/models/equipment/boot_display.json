@@ -1,34 +1,43 @@
 {
 	"gui_light": "front",
 	"textures": {
+		"background": "inf:gui/generic/background_color",
 		"head": "inf:equipment/helmet/icon",
-		"feet": "minecraft:item/empty_armor_slot_boots"
+		"feet": "item/empty_armor_slot_boots",
+		"particle": "inf:gui/generic/background_color"
 	},
 	"elements": [
 		{
 			"name": "head",
-			"from": [4, 19, -1],
-			"to": [12, 27, 0],
-			"color": 2,
+			"from": [26, -0.5, 0],
+			"to": [30, 3.5, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [28, -6, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#head"}
 			}
 		},
 		{
 			"name": "feet",
-			"from": [4, -8, -1],
-			"to": [12, 0, 0],
-			"color": 2,
+			"from": [26, -14, 0],
+			"to": [30, -10, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [28, -6, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#feet"}
+			}
+		},
+		{
+			"from": [-10.25, -14.25, 16],
+			"to": [7.75, 3.75, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#background"}
 			}
 		}
 	],
 	"display": {
 		"gui": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 24, 0],
-			"scale": [2, 2, 2]
+			"translation": [80, 80, 0],
+			"scale": [4, 4, 4]
 		}
 	}
 }

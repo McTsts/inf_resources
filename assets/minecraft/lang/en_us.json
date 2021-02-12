@@ -1,4 +1,5 @@
 {
 	"container.crafting": "§f\uE000",
-	"gui.recipebook.search_hint": ""
+	"gui.recipebook.search_hint": "",
+	"item.durability": ""
 }
