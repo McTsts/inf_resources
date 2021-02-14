@@ -96,22 +96,22 @@
 		"replace": true
 	},
 	"item.crossbow.quick_charge_1": {
-		"sounds": ["empty"],
+		"sounds": [{"name": "block/beacon/activate","pitch":2}],
 		"subtitle": "subtitles.tool.inf.gun.load",
 		"replace": true
 	},
 	"item.crossbow.quick_charge_2": {
-		"sounds": ["empty"],
+		"sounds": [{"name": "block/beacon/activate","pitch":2}],
 		"subtitle": "subtitles.tool.inf.gun.load",
 		"replace": true
 	},
 	"item.crossbow.quick_charge_3": {
-		"sounds": ["empty"],
+		"sounds": [{"name": "block/beacon/activate","pitch":2}],
 		"subtitle": "subtitles.tool.inf.gun.load",
 		"replace": true
 	},
 	"item.crossbow.loading_start": {
-		"sounds": ["empty"],
+		"sounds": [{"name": "block/beacon/activate","pitch":2,"volume":2}],
 		"subtitle": "subtitles.tool.inf.gun.load",
 		"replace": true
 	},

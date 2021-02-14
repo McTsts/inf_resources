@@ -76,6 +76,17 @@
 			"dig/stone4"
 		]
 	},
+	"tool.gun.shoot.pew": {
+		"sounds": [	
+			"mob/dolphin/death1",
+			"mob/dolphin/death2"
+		]
+	},
+	"tool.gun.shoot.woo": {
+		"sounds": [
+			"block/conduit/deactivate"
+		]
+	},
 	"machine.panel.transmitter.on": {
 		"sounds": [
 			"random/fizz"
