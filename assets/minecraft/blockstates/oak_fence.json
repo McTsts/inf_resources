@@ -1,0 +1,44 @@
+{
+	"multipart": [
+		{
+			"apply": [
+				{ "model": "inf:block/log/oak", "y":0 },
+				{ "model": "inf:block/log/oak", "y":90 },
+				{ "model": "inf:block/log/oak", "y":180 },
+				{ "model": "inf:block/log/oak", "y":270 }
+			]
+		},
+		{
+			"when": {"north":"true"},
+			"apply": [
+				{ "model": "inf:block/log/oak/stick_1", "y":0, "weight": 9 },
+				{ "model": "inf:block/log/oak/stick_2", "y":0, "weight": 10 },
+				{ "model": "inf:block/log/oak/stick_3", "y":0, "weight": 12 }
+			]
+		},
+		{
+			"when": {"east":"true"},
+			"apply": [
+				{ "model": "inf:block/log/oak/stick_1", "y":90, "weight": 11 },
+				{ "model": "inf:block/log/oak/stick_2", "y":90, "weight": 11 },
+				{ "model": "inf:block/log/oak/stick_3", "y":90, "weight": 9 }
+			]
+		},
+		{
+			"when": {"south":"true"},
+			"apply": [
+				{ "model": "inf:block/log/oak/stick_1", "y":180, "weight": 9 },
+				{ "model": "inf:block/log/oak/stick_2", "y":180, "weight": 13 },
+				{ "model": "inf:block/log/oak/stick_3", "y":180, "weight": 10 }
+			]
+		},
+		{
+			"when": {"west":"true"},
+			"apply": [
+				{ "model": "inf:block/log/oak/stick_1", "y":270, "weight": 10 },
+				{ "model": "inf:block/log/oak/stick_2", "y":270, "weight": 8 },
+				{ "model": "inf:block/log/oak/stick_3", "y":270, "weight": 11 }
+			]
+		}
+	]
+}

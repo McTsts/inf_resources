@@ -1,5 +1,5 @@
 {
-	"parent": "inf:machine/drill/fuel_display",
+	"parent": "inf:machine/charger/base",
 	"textures": {
 		"display": "inf:machine/generic/fuel_display/3"
 	}

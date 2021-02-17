@@ -1,0 +1,58 @@
+{
+	"textures": {
+		"particle": "inf:block/log/oak_log",
+		"log": "inf:block/log/oak_log"
+	},
+	"elements": [
+		{
+			"name": "oak_log_9",
+			"from": [8, 3, 4],
+			"to": [8, 8, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 5, 7]},
+			"faces": {
+				"east": {"uv": [6, 10, 11, 11], "rotation": 270, "texture": "#log"},
+				"west": {"uv": [6, 11, 11, 10], "rotation": 270, "texture": "#log"}
+			}
+		},
+		{
+			"name": "oak_log_10",
+			"from": [8, 4, 3],
+			"to": [8, 6, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 5, 7]},
+			"faces": {
+				"east": {"uv": [7, 11, 9, 12], "rotation": 270, "texture": "#log"},
+				"west": {"uv": [7, 12, 9, 11], "rotation": 270, "texture": "#log"}
+			}
+		},
+		{
+			"name": "oak_log_11",
+			"from": [8, 5, 2],
+			"to": [8, 7, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 5, 7]},
+			"faces": {
+				"east": {"uv": [8, 12, 10, 13], "rotation": 270, "texture": "#log"},
+				"west": {"uv": [8, 13, 10, 12], "rotation": 270, "texture": "#log"}
+			}
+		},
+		{
+			"name": "oak_log_12",
+			"from": [8, 6, 0],
+			"to": [8, 7, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 5, 7]},
+			"faces": {
+				"east": {"uv": [9, 13, 10, 15], "rotation": 270, "texture": "#log"},
+				"west": {"uv": [9, 15, 10, 13], "rotation": 270, "texture": "#log"}
+			}
+		},
+		{
+			"name": "oak_log_13",
+			"from": [8, 7, -1],
+			"to": [8, 8, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 5, 7]},
+			"faces": {
+				"east": {"uv": [10, 14, 11, 16], "rotation": 270, "texture": "#log"},
+				"west": {"uv": [10, 16, 11, 14], "rotation": 270, "texture": "#log"}
+			}
+		}
+	]
+}

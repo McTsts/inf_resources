@@ -87,6 +87,11 @@
 			"block/conduit/deactivate"
 		]
 	},
+	"tool.gun.shoot.bam": {
+		"sounds": [
+			"fireworks/largeblast1"
+		]
+	},
 	"machine.panel.transmitter.on": {
 		"sounds": [
 			"random/fizz"

@@ -199,6 +199,11 @@
 	"machine.inf.switch_conveyor.desc.2": "switches direction when",
 	"machine.inf.switch_conveyor.desc.3": "receiving a signal.",
 	
+	"machine.inf.charger": "Charging Coil",
+	"machine.inf.charger.desc.1": "A machine that, when",
+	"machine.inf.charger.desc.2": "fueled, can recharge",
+	"machine.inf.charger.desc.3": "your equipment.",
+	
 	"machine.inf.drill": "Drill",
 	"machine.inf.scrap.drill": "Scrap Drill",
 	"machine.inf.iron.drill": "Iron Drill",
@@ -358,6 +363,13 @@
 	
 	"subtitles.tool.inf.gun.load": "Loading laser",
 	"subtitles.tool.inf.gun.shoot": "Laser shoots",
+	
+	
+	"tool.inf.network_meter": "Signal Tool",
+	
+	"tool.inf.network_meter.desc.1": "A multitool that can be",
+	"tool.inf.network_meter.desc.2": "used to get information",
+	"tool.inf.network_meter.desc.3": "from gates and panels.",
 	
 	
 	"equipment.inf.category": "Equipment",

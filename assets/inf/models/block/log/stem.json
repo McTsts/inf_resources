@@ -1,0 +1,7 @@
+{
+	"parent": "inf:block/log/base",
+	"textures": {
+		"particle": "block/mushroom_stem",
+		"log": "block/mushroom_stem"
+	}
+}
