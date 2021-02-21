@@ -130,7 +130,7 @@
 	},
 	"machine.generic.add_fuel": {
 		"sounds": [
-			"mob/ghast/fireball4"
+			"random/pop"
 		],
 		"subtitle": "subtitles.machine.generic.add_fuel"
 	}

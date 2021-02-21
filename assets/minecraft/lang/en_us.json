@@ -1,5 +1,8 @@
 {
 	"container.crafting": "§f\uE000",
 	"gui.recipebook.search_hint": "",
-	"item.durability": ""
+	"item.durability": "",
+	"enchantment.level.2": "",
+	"effect.minecraft.levitation": "Rockets",
+	"effect.minecraft.slow_falling": "Hover Mode"
 }
