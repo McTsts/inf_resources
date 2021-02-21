@@ -92,6 +92,18 @@
 			"fireworks/largeblast1"
 		]
 	},
+	"equipment.jetpack.rocket": {
+		"sounds": [
+			"inf:equipment/jetpack/rocket"
+		],
+		"subtitle": "subtitles.equipment.jetpack.rocket"
+	},
+	"equipment.jetpack.rocket_end": {
+		"sounds": [
+			"inf:equipment/jetpack/rocket_end"
+		],
+		"subtitle": "subtitles.equipment.jetpack.rocket"
+	},
 	"machine.panel.transmitter.on": {
 		"sounds": [
 			"random/fizz"

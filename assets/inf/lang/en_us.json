@@ -396,6 +396,10 @@
 	"equipment.inf.jetpack.desc.3": "upwards for short bursts.",
 	"equipment.inf.jetpack.hint.use": "Hold %s to use.",
 	
+	"equipment.inf.jetpack.ui_fail": "You cannot open a UI while hovering.",
+	
+	"subtitles.equipment.jetpack.rocket": "Jetpack rockets",
+	
 	
 	"gui.inf.required.header": "Components Required:",
 	"gui.inf.required.list": "%$1s x%$2s",
