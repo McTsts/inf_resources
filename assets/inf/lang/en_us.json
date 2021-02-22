@@ -34,9 +34,9 @@
 	"material.inf.form.ore.desc.3": "into a usable component.",
 	
 	"material.inf.rock": "Rock",
-	"material.inf.rock.desc.1": "This chunk of",
-	"material.inf.rock.desc.2": "stone probably",
-	"material.inf.rock.desc.3": "isn't usable.",
+	"material.inf.rock.desc.1": "This chunk of stone can",
+	"material.inf.rock.desc.2": "probably be compacted",
+	"material.inf.rock.desc.3": "into building blocks.",
 	
 	
 	"material.inf.form.ingot": "Ingot",
@@ -52,6 +52,11 @@
 	
 	
 	"material.inf.form.block": "Block",
+	"material.inf.stone.block": "Stone Block",
+	
+	"material.inf.form.block.desc.1": "This solid block",
+	"material.inf.form.block.desc.2": "of material can be",
+	"material.inf.form.block.desc.3": "used to build with.",
 	
 	
 	"material.inf.form.beam": "Beam",
@@ -222,6 +227,11 @@
 	"machine.inf.crusher.desc.2": "just about anything into",
 	"machine.inf.crusher.desc.3": "a fine powder.",
 	
+	"machine.inf.crusher": "Compactor",
+	"machine.inf.crusher.desc.1": "A machine that can",
+	"machine.inf.crusher.desc.2": "compress things into",
+	"machine.inf.crusher.desc.3": "blocks.",
+	
 	
 	"machine.inf.panel.category": "Signal Panel",
 	
@@ -385,16 +395,20 @@
 	"equipment.inf.helmet": "Emergency Respirator",
 	
 	"equipment.inf.helmet.desc.1": "With this helmet you can",
-	"equipment.inf.helmet.desc.2": "temporarily breath outside",
+	"equipment.inf.helmet.desc.2": "temporarily breathe outside",
 	"equipment.inf.helmet.desc.3": "your generated atmosphere.",
 	
 	
 	"equipment.inf.jetpack": "Jetpack",
+	"equipment.inf.scrap.jetpack": "Scrap Jetpack",
+	"equipment.inf.iron.jetpack": "Iron Jetpack",
+	"equipment.inf.titanium.jetpack": "Titanium Jetpack",
 	
 	"equipment.inf.jetpack.desc.1": "This wearable set of",
 	"equipment.inf.jetpack.desc.2": "rockets can propel you ",
-	"equipment.inf.jetpack.desc.3": "upwards for short bursts.",
-	"equipment.inf.jetpack.hint.use": "Hold %s to use.",
+	"equipment.inf.jetpack.desc.3": "upwards.",
+	
+	"equipment.inf.jetpack.power": "Energy %1$s/%2$s",
 	
 	"equipment.inf.jetpack.ui_fail": "You cannot open a UI while hovering.",
 	
