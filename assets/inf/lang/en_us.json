@@ -227,10 +227,10 @@
 	"machine.inf.crusher.desc.2": "just about anything into",
 	"machine.inf.crusher.desc.3": "a fine powder.",
 	
-	"machine.inf.crusher": "Compactor",
-	"machine.inf.crusher.desc.1": "A machine that can",
-	"machine.inf.crusher.desc.2": "compress things into",
-	"machine.inf.crusher.desc.3": "blocks.",
+	"machine.inf.compactor": "Compactor",
+	"machine.inf.compactor.desc.1": "A machine that can",
+	"machine.inf.compactor.desc.2": "compress materials into",
+	"machine.inf.compactor.desc.3": "building blocks.",
 	
 	
 	"machine.inf.panel.category": "Signal Panel",

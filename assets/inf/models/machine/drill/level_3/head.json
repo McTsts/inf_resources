@@ -1,6 +1,6 @@
 {
 	"parent": "inf:machine/drill/head",
 	"textures": {
-		"base": "inf:machine/drill/level_1"
+		"base": "inf:machine/drill/level_3"
 	}
 }

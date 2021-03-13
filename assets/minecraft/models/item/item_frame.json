@@ -11,7 +11,7 @@
 		{ "predicate": { "custom_model_data": 1060 }, "model": "inf:machine/alloy_furnace/base" },
 		{ "predicate": { "custom_model_data": 1061 }, "model": "inf:machine/switch_conveyor/base" },
 		{ "predicate": { "custom_model_data": 1062 }, "model": "inf:machine/charger/base" },
-		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" },
+		{ "predicate": { "custom_model_data": 1063 }, "model": "inf:machine/compactor/base" },
 		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },
 		{ "predicate": { "custom_model_data": 2151 }, "model": "inf:machine/gate/delay/gui" },
 		{ "predicate": { "custom_model_data": 2152 }, "model": "inf:machine/gate/repeat/gui" },
@@ -40,11 +40,28 @@
 		{ "predicate": { "custom_model_data": 106203 }, "model": "inf:machine/charger/3" },
 		{ "predicate": { "custom_model_data": 106204 }, "model": "inf:machine/charger/4" },
 		
+		{ "predicate": { "custom_model_data": 106300 }, "model": "inf:machine/compactor/base" },
+		{ "predicate": { "custom_model_data": 106301 }, "model": "inf:machine/compactor/1" },
+		{ "predicate": { "custom_model_data": 106302 }, "model": "inf:machine/compactor/2" },
+		{ "predicate": { "custom_model_data": 106303 }, "model": "inf:machine/compactor/3" },
+		
 		{ "predicate": { "custom_model_data": 115100 }, "model": "inf:machine/drill/level_1/base" },
 		{ "predicate": { "custom_model_data": 115101 }, "model": "inf:machine/drill/level_1/1" },
 		{ "predicate": { "custom_model_data": 115102 }, "model": "inf:machine/drill/level_1/2" },
 		{ "predicate": { "custom_model_data": 115103 }, "model": "inf:machine/drill/level_1/3" },
 		{ "predicate": { "custom_model_data": 115104 }, "model": "inf:machine/drill/level_1/4" },
-		{ "predicate": { "custom_model_data": 115110 }, "model": "inf:machine/drill/level_1/head" }
+		{ "predicate": { "custom_model_data": 115110 }, "model": "inf:machine/drill/level_1/head" },
+		{ "predicate": { "custom_model_data": 125100 }, "model": "inf:machine/drill/level_2/base" },
+		{ "predicate": { "custom_model_data": 125101 }, "model": "inf:machine/drill/level_2/1" },
+		{ "predicate": { "custom_model_data": 125102 }, "model": "inf:machine/drill/level_2/2" },
+		{ "predicate": { "custom_model_data": 125103 }, "model": "inf:machine/drill/level_2/3" },
+		{ "predicate": { "custom_model_data": 125104 }, "model": "inf:machine/drill/level_2/4" },
+		{ "predicate": { "custom_model_data": 125110 }, "model": "inf:machine/drill/level_2/head" },	
+		{ "predicate": { "custom_model_data": 135100 }, "model": "inf:machine/drill/level_3/base" },
+		{ "predicate": { "custom_model_data": 135101 }, "model": "inf:machine/drill/level_3/1" },
+		{ "predicate": { "custom_model_data": 135102 }, "model": "inf:machine/drill/level_3/2" },
+		{ "predicate": { "custom_model_data": 135103 }, "model": "inf:machine/drill/level_3/3" },
+		{ "predicate": { "custom_model_data": 135104 }, "model": "inf:machine/drill/level_3/4" },
+		{ "predicate": { "custom_model_data": 135110 }, "model": "inf:machine/drill/level_3/head" }
 	]
 }

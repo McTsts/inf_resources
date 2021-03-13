@@ -1,0 +1,40 @@
+{
+	"providers": [
+		{ "type": "bitmap", "file": "font/space.png", "ascent": -32768, "height": -84, "chars": ["|"] },
+		{
+			"type": "bitmap",
+			"file": "inf:gui/hud/bar.png",
+			"ascent": -21,
+			"height": 20,
+			"chars": [
+				"srqpo",
+				"nmlkj",
+				"ihgfe",
+				"dcba "
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "inf:gui/hud/bubble.png",
+			"ascent": -21,
+			"height": 14,
+			"chars": [
+				"    -",
+				"ABCDE",
+				"FGHIJ",
+				"KLMNO",
+				"PQRST"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "inf:gui/hud/numbers.png",
+			"ascent": -32,
+			"height": 32,
+			"chars": [
+				"01234",
+				"56789"
+			]
+		}
+	]
+}

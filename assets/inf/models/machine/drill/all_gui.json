@@ -1,7 +1,7 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"base": "inf:machine/drill/level_1/base",
+		"base": "inf:machine/drill/level_1",
 		"particle": "block/furnace_top",
 		"display": "inf:machine/generic/fuel_display"
 	},

@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/drill/level_2/base",
+	"textures": {
+		"display": "inf:machine/generic/fuel_display/3"
+	}
+}

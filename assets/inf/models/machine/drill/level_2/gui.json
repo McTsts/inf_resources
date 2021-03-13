@@ -1,6 +1,6 @@
 {
 	"parent": "inf:machine/drill/all_gui",
 	"textures": {
-		"base": "inf:machine/drill/level_1"
+		"base": "inf:machine/drill/level_2"
 	}
 }

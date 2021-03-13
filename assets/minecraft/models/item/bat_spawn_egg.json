@@ -1,6 +1,8 @@
 {
 	"parent": "minecraft:item/template_spawn_egg",
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" }
+		{ "predicate": { "custom_model_data": 1151 }, "model": "inf:machine/drill/level_1/gui" },
+		{ "predicate": { "custom_model_data": 1251 }, "model": "inf:machine/drill/level_2/gui" },
+		{ "predicate": { "custom_model_data": 1351 }, "model": "inf:machine/drill/level_3/gui" }
 	]
 }
