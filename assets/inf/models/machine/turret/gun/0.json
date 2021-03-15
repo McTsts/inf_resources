@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/turret/gun",
+	"textures": {
+		"charge": "inf:machine/turret/charge_0"
+	}
+}
