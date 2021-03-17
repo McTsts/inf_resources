@@ -209,6 +209,11 @@
 	"machine.inf.charger.desc.2": "fueled, can recharge",
 	"machine.inf.charger.desc.3": "your equipment.",
 	
+	"machine.inf.turret": "Defense Turret",
+	"machine.inf.turret.desc.1": "A machine that, when",
+	"machine.inf.turret.desc.2": "fueled, will target and",
+	"machine.inf.turret.desc.3": "vaporize hostile entities.",
+	
 	"machine.inf.drill": "Drill",
 	"machine.inf.scrap.drill": "Scrap Drill",
 	"machine.inf.iron.drill": "Iron Drill",

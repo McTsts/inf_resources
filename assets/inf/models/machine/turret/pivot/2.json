@@ -1,6 +1,6 @@
 {
 	"parent": "inf:machine/turret/pivot",
 	"textures": {
-		"charge": "inf:machine/generic/fuel_display/2"
+		"display": "inf:machine/generic/fuel_display/2"
 	}
 }
