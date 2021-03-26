@@ -12,14 +12,14 @@
 			"model": "inf:machine/filter/no_anim"
 		},
 		"conditional=false,facing=south": {
-			"model": "minecraft:block/command_block",
+			"model": "inf:machine/switch_conveyor/fixed",
 			"y": 180
 		},
 		"conditional=false,facing=up": {
 			"model": "inf:machine/gate/no_input_logic_gate"
 		},
 		"conditional=false,facing=west": {
-			"model": "minecraft:block/command_block",
+			"model": "inf:machine/switch_conveyor/fixed",
 			"y": 270
 		},
 		"conditional=true,facing=down": {

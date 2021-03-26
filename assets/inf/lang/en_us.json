@@ -237,6 +237,13 @@
 	"machine.inf.compactor.desc.2": "compress materials into",
 	"machine.inf.compactor.desc.3": "building blocks.",
 	
+	"machine.inf.crate": "Crate",
+	"machine.inf.crate.desc.1": "A box that can be",
+	"machine.inf.crate.desc.2": "used to store and",
+	"machine.inf.crate.desc.3": "dispense items.",
+	"subtitles.block.crate.open": "Crate opens",
+	"subtitles.block.crate.close": "Crate closes",
+	
 	
 	"machine.inf.panel.category": "Signal Panel",
 	

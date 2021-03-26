@@ -1,0 +1,62 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "inf:machine/crate/base"
+			}
+		},
+		{
+			"when": {
+				"facing": "north"
+			},
+			"apply": {
+				"model": "inf:machine/crate/nose"
+			}
+		},
+		{
+			"when": {
+				"facing": "east"
+			},
+			"apply": {
+				"model": "inf:machine/crate/nose",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "south"
+			},
+			"apply": {
+				"model": "inf:machine/crate/nose",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west"
+			},
+			"apply": {
+				"model": "inf:machine/crate/nose",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "down"
+			},
+			"apply": {
+				"model": "inf:machine/crate/nose_alt",
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "up"
+			},
+			"apply": {
+				"model": "inf:machine/crate/nose_alt",
+				"x": 270
+			}
+		}
+	]
+}

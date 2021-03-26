@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/polished_diorite_stairs",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1061 }, "model": "inf:machine/switch_conveyor/base" }
+	]
+}

@@ -12,7 +12,7 @@
 		{ "predicate": { "custom_model_data": 1061 }, "model": "inf:machine/switch_conveyor/base" },
 		{ "predicate": { "custom_model_data": 1062 }, "model": "inf:machine/charger/base" },
 		{ "predicate": { "custom_model_data": 1063 }, "model": "inf:machine/compactor/base" },
-		{ "predicate": { "custom_model_data": 1064 }, "model": "inf:machine/turret/all" },
+		{ "predicate": { "custom_model_data": 1064 }, "model": "inf:machine/turret/gui" },
 		{ "predicate": { "custom_model_data": 2150 }, "model": "inf:machine/gate/clock/gui" },
 		{ "predicate": { "custom_model_data": 2151 }, "model": "inf:machine/gate/delay/gui" },
 		{ "predicate": { "custom_model_data": 2152 }, "model": "inf:machine/gate/repeat/gui" },
