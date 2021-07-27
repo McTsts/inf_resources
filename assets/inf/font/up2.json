@@ -1,0 +1,15 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "inf:font/ascii.png",
+            "ascent": 22,
+			"height": 36,
+            "chars": [
+                "0123456789ABCDEFGHIJKLMNOPQRSTUV",
+				"WXYZabcdefghijklmnopqrstuvwxyz\u0000\u0000",
+				"\u0020!\u0022#$%&'()*+,-./:;<=>?[\u005C]^_`{|}~"
+            ]
+        }
+    ]
+}
