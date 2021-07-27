@@ -31,6 +31,26 @@
 		"sounds": ["empty"],
 		"replace": true
 	},
+	"entity.glow_item_frame.add_item": {
+		"sounds": ["empty"],
+		"replace": true
+	},
+	"entity.glow_item_frame.break": {
+		"sounds": ["empty"],
+		"replace": true
+	},
+	"entity.glow_item_frame.place": {
+		"sounds": ["empty"],
+		"replace": true
+	},
+	"entity.glow_item_frame.remove_item": {
+		"sounds": ["empty"],
+		"replace": true
+	},
+	"entity.glow_item_frame.rotate_item": {
+		"sounds": ["empty"],
+		"replace": true
+	},
 	"entity.item_frame.add_item": {
 		"sounds": ["empty"],
 		"replace": true
