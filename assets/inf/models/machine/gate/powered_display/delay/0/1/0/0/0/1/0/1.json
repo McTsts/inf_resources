@@ -1,0 +1,6 @@
+{
+	"parent": "inf:machine/gate/powered_display",
+	"textures": {
+		"face": "inf:machine/gate/delay/0/1/0/0/0/1/0/1"
+	}
+}
