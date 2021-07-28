@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/fishing_rod"
+	},
+	"overrides": [
+		{"predicate": { "cast": 1 },"model": "item/fishing_rod_cast"},
+		{ "predicate": { "custom_model_data": 1181 }, "model": "inf:tool/bridge_builder/level_1" },
+		{ "predicate": { "custom_model_data": 1281 }, "model": "inf:tool/bridge_builder/level_2" },
+		{ "predicate": { "custom_model_data": 1381 }, "model": "inf:tool/bridge_builder/level_3" }
+	]
+}
