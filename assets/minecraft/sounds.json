@@ -152,5 +152,13 @@
 	"item.crossbow.hit": {
 		"sounds": ["empty"],
 		"replace": true
+	},
+	"item.armor.equip_chain": {
+		"sounds": ["empty"],
+		"replace": true
+	},
+	"item.armor.equip_leather": {
+		"sounds": ["empty"],
+		"replace": true
 	}
 }
