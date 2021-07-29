@@ -33,8 +33,8 @@ void main() {
 	if(color.r >= 0.0150 && color.r <= 0.0154 && color.g == 0.0 && color.b >= 0.0150 && color.b <= 0.0154 && color.a < 0.95) {
 		discard;
 	}
-	//  && color.b >= 0.0150 && color.b <= 0.0154 && color.a < 0.95
-	if(color.r >= 0.0372 && color.r <= 0.0390 && color.g == 0.0) {
+	//  && color.b >= 0.0150 && color.b <= 0.0154 
+	if(color.r >= 0.0304 && color.r <= 0.0307 && color.g == 0.0 && color.a < 0.95) {
 		discard;
 	}
 	
