@@ -1,12 +1,1 @@
-{
-	"container.crafting": "§f\uE000",
-	"gui.recipebook.search_hint": "",
-	"item.durability": "%s/%s",
-	"enchantment.level.5": "",
-	"effect.minecraft.levitation": "Rockets",
-	"effect.minecraft.slow_falling": "Hover Mode",
-	"effect.minecraft.unluck": "Low Air",
-	"effect.minecraft.wither": "No Air",
-	"death.attack.wither": "%1$s ran out of air",
-	"death.attack.wither.player": "%1$s ran out of air whilst fighting %2$s"
-}
+{"test": "value12345678901234567890123456"}
