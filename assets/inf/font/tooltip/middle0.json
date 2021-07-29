@@ -1,0 +1,15 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "inf:font/tooltip/middle.png",
+            "ascent": 7,
+			"height": 10,
+            "chars": [
+                "se012345"
+            ]
+        },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -3, "chars": [ "b" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -6, "chars": [ "f" ] }
+    ]
+}

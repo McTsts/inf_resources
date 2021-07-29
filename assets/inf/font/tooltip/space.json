@@ -1,0 +1,14 @@
+{
+    "providers": [
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": 2, "chars": [ "b" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -9, "chars": [ "s" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -9, "chars": [ "e" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -6, "chars": [ "0" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -7, "chars": [ "1" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -9, "chars": [ "2" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -13, "chars": [ "3" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -21, "chars": [ "4" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": -37, "chars": [ "5" ] },
+		{ "type": "bitmap", "file": "negative_space:font/pixel.png", "ascent": -32768, "height": 3, "chars": [ "f" ] }
+    ]
+}
